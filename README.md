@@ -8,8 +8,8 @@ Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis 
 
 Toen ik, op advies van Darice, de scène zelf even zonder geluid ging kijken merkte ik pas hoe saai dat is. Geen omgevingsgeluiden, geen stemmen, geen piepjes, geen alarmen en geen gevoel. Iets wordt spannend door het geluid dat er aan een scène wordt toegevoegd, ook al gebeurt er bijvoorbeeld niet eens wat spannends in het beeld.
 
-# Voorkeuren Darice da Cuba:
-Deze uiteindelijk visueel aantrekkelijke scène maken wij speciaal gericht voor één persoon, namelijk Darice da Cuba. Het is van groot belang om achter haar specifieke voorkeuren en haar denkwijze te komen, om daarna de voor haar perfect vormgegeven captions te kunnen maken. Ik ben daarom op 6 mei in gesprek gegaan met Darice en heb hier de volgende informatie uit kunnen halen:
+# Voorkeuren Darice de Cuba:
+Deze uiteindelijk visueel aantrekkelijke scène maken wij speciaal gericht voor één persoon, namelijk Darice de Cuba. Het is van groot belang om achter haar specifieke voorkeuren en haar denkwijze te komen, om daarna de voor haar perfect vormgegeven captions te kunnen maken. Ik ben daarom op 6 mei in gesprek gegaan met Darice en heb hier de volgende informatie uit kunnen halen:
 
 1.	De captions moeten genoeg informatie bevatten om Darice de film zo optimaal mogelijk te laten beleven. Wel moeten we er volgens Darice voor oppassen niet te veel details in de captions te zetten. Door te veel details te benoemen kan het voorkomen dat ze nog niet alles gelezen heeft, terwijl het desbetreffende beeld van de film wel al aan het switchen is. 
 
@@ -28,6 +28,18 @@ Deze uiteindelijk visueel aantrekkelijke scène maken wij speciaal gericht voor 
 8.	Spannende films bewaard Darice eigenlijk altijd voor de avond.
 
 9.	Darice associeert donkere kleuren met spanning.
+
+10.	Introvert met een beperkte vriendengroep.
+
+11.	Spreekt Nederlands, Engels en Papiaments.
+
+12.	Maakt bij congressen of besprekingen gebruik van een schrijftolk.
+
+13.	Doof geworden op haar 14e door een hersenbloeding.
+
+14.	Front-end developer (HTML/CSS) op de Hogeschool van Rotterdam.
+
+15.	Houd van nieuwe uitdagingen.
 
 # Versie 1: wat heb ik gemaakt?
 [Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html) - video is bewerkt tot 0.43 min.
@@ -48,7 +60,7 @@ Alle andere geluiden die ik daarna nog tegenkwam, heb ik aan de linker kant van 
 # Feedback:
 Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor, op 12 mei, stond er ook een feedback sessie gepland. Helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze eerste meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn eerste versie. Hun ’fouten’ hoefde ik zelf dan niet meer te maken.
 
-### Darice da Cuba:
+### Darice de Cuba:
 Darice vond in de tweede feedback sessie mijn video er erg goed uit zien. Zelf had zij er op dat moment niet eens echt wat op aan te merken. Ze gaf aan het fijn te vinden dat ik naar haar geluisterd had wat betreft de manier van kleur gebruik.
 
 Mijn specifieke vraag voor haar op dat moment was of zij liever had dat de geluidsaanduidingen in het beeld kwamen te staan of juist daarnaast. Hierbij had zij geen specifiek voorkeur, dus dit mocht ik aan de hand van mijn eigen voorkeuren gaan beslissen. Overigens vond ze de aanduidingen zelf, losstaand van de specifieke plek, heel duidelijk. Dit was voor mij ook nog de vraag aangezien dit verticaal in plaats van horizontaal te lezen is, wat voor sommige mensen als heel erg onnatuurlijk wordt gezien. Het enige wat ze daar nog op aan te merken had, is dat ze het graag gecentreerd ziet staan.
@@ -112,9 +124,9 @@ De grootste ‘convention’ die ik naar mijn idee genegeerd heb is de zelf toeg
 Als laatste heb ik bij elk geluidje proberen te spelen met het beeld zelf, door deze te laten trillen, de opacity te veranderen of kleiner en groter te maken.
 
 ### Prioritise identity
-Voor deze specifieke opdracht, was het eigenlijk aan mijn taak om rekening te houden meet 3 verschillende identiteiten. Natuurlijik allereest de identiteit van Darice da Cuba, waar ik het al eerder over gehad heb. Maar ook de identiteit van de film zonder captions en mijn eigen (de makers) identiteit zijn hierbij super belangrijk.
+Voor deze specifieke opdracht, was het eigenlijk aan mijn taak om rekening te houden meet 3 verschillende identiteiten. Natuurlijik allereest de identiteit van Darice de Cuba, waar ik het al eerder over gehad heb. Maar ook de identiteit van de film zonder captions en mijn eigen (de makers) identiteit zijn hierbij super belangrijk.
 
-#### Darice da Cuba
+#### Darice de Cuba
 Als ik de identiteit van Darice na ons gesprekje zou moeten vaststellen, zit dit er alsvolgt uit: 
 Ik zie Darice als een sterk en krachtig persoon, die het eens in de zoveel tijd leuk vind om spanning op te zoeken en daarin uitgedaagd te worden. Wel houd ze van de standaard normen en hoeft het voor haar allemaal niet té gek.
 
