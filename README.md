@@ -51,6 +51,8 @@ Elk woordje kwam daarnaast eerst een voor een in beeld, totdat het een hele lang
 
 Daarnaast laat ik ook het woordje ‘ready’ nog net iets later in beeld komen. Dit aangezien het geen volledige zin is en je het personage als het ware een hele korte pauze hoort nemen. Als je de stem zelf niet hoort en alles zou wel in een keer in beeld komen denk ik dat je het anders zou kunnen interpreteren.
 
+De zin ‘Fuck-off, skin job’ heeft een aparte vormgeving gekregen, omdat deze zin heel veel emotie en woede met zich mee brengt. Ik heb de tekst nu groot en rood weergegeven, om deze goed op te laten vallen. 
+
 Ik heb het beeld in het midden gezet, een grijze achtergrond toegevoegd en iets groter gemaakt. Darice heeft, zoals ik eerder al zei, aangegeven spannende films vaak in de avond te kijken. Daarnaast weet ik van mezelf dat het niet erg prettig is, wanneer je in het donker naar een heel wit beeld moet kijken. Vandaar mijn keuze om de achtergrond grijs te maken. Dat het beeld in het midden staat ziet er naar mijn mening logischer uit dan bijvoorbeeld in een hoek.
 
 Daarna heb ik de tekst even gelaten voor wat het is en ben ik begonnen aan de geluiden. Het eerste geluid die ik visueel heb proberen vorm te geven is meteen aan het begin van de scène. Hier hoor je wat harde bons geluiden, waardoor ik ervoor heb gekozen het beeld zelf op het moment van het geluid van grote te veranderen. Ik ben toen verder gegaan met het geluid op 0:09, waarbij de achtergrond kleur steeds switched van wit naar zwart en naar wit.
@@ -75,7 +77,7 @@ Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verde
 
 De laatste lange hoge pieptoon van scène 1 is hierbij wel een uitzondering. Ook deze pieptoon wordt natuurlijk weer ondersteund met een geluidsomschrijving en een visueel element maar dit keer ook met een bewegende SVG. Dit omdat ik dit geluid erg belangrijk vind voor de scène, wanneer dit geluid niet goed over komt blijf er eigenlijk helemaal niks qua sfeer of emotie over.
 
-De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad, aangezien ik de rode kleur toch niet helemaal bij de manier van praten vond passen. Ik denk dat de omschrijving van het personage en de smiley al genoeg boosheid met zich mee brengen. 
+De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad, aangezien ik de rode kleur toch niet helemaal bij de manier van praten vond passen. Ik denk dat de omschrijving van het personage en de smiley, die ik er zojuist aan heb toegevoegd, al genoeg boosheid met zich mee brengen. 
 
 # Versie 3: 
 [Versie 3](https://maximear.github.io/Web-typografie/Versie3/index.html) - video is bewerkt tot 1.26 min.
@@ -98,7 +100,9 @@ Voor de automatic voice heb ik gekozen voor Brenner mono. Ik was eigenlijk opzoe
 
 Voor Constant K. heb ik gekozen voor de normale Brenner. Ik wou een wat liefdevoller en menselijker lettertype voor Constant K. Dit omdat hij het enige personage in het fragment is, die je echt volgt en misschien al een beetje leert kennen. Toch wou ik alles wel nog heel strak en stoer houden waardoor ik hierop uit kwam.
 
-De strakste Family heb ik dus uiteindelijk uitgekozen voor de automatic voice, daarna volgt de geluidsomschrijving en de rustigste meest toegankelijke Family is voor Constant K.
+De angry man heeft als Brenner Family Bold gekregen. Dit moest een bijna agressief en sterk lettertype zijn. Hoe dikker een lettertype hoe krachtiger die eruit ziet, vandaar mijn keuze.
+
+De strakste Family heb ik dus uiteindelijk uitgekozen voor de automatic voice, daarna volgt de geluidsomschrijving en de rustigste meest toegankelijke Family is voor Constant K. De angry man staat een beetje op zichzelf en is helemaal anders als de rest.
 
 # De keuzes voor de personage teksten:
 
