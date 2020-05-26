@@ -4,11 +4,12 @@
 Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface Design. Een blok waar sommige mensen misschien wel zin in hadden, andere mensen juist niet en dan heb je mij. Ik had werkelijk waar geen idee wat ik moest verwachten. HTML en CSS, woorden die ik kende maar ik mij geen beeld bij voor kon stellen. Wat gaat dit worden, gaan de thuislessen genoeg voor mij zijn?
 
 # De opdracht:
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Bij dit vak is het aan ons, om een scene uit de film de Blade Runner 2049 zo visueel mogelijk weer te geven met behulp van de captions en je eigen creativiteit. Dit zodat ook dove mensen deze film echt kunnen gaan beleven.
-Toen ik, op advies van Darice, de scene zelf even zonder geluid ging kijken merkte ik pas hoe saai dat is. Geen omgevingsgeluiden, geen stemmen, geen piepjes, geen alarmen en geen gevoel. Iets wordt spannend door het geluid dat er aan een scene wordt toegevoegd, ook al gebeurt er bijvoorbeeld niet eens wat spannends in het beeld.
+Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Bij dit vak is het aan ons, om een scène uit de film de Blade Runner 2049 zo visueel mogelijk weer te geven met behulp van de captions en je eigen creativiteit. Dit zodat ook dove mensen deze film echt kunnen gaan beleven.
+
+Toen ik, op advies van Darice, de scène zelf even zonder geluid ging kijken merkte ik pas hoe saai dat is. Geen omgevingsgeluiden, geen stemmen, geen piepjes, geen alarmen en geen gevoel. Iets wordt spannend door het geluid dat er aan een scène wordt toegevoegd, ook al gebeurt er bijvoorbeeld niet eens wat spannends in het beeld.
 
 # Voorkeuren Darice da Cuba:
-Deze uiteindelijk visueel aantrekkelijke scene maken wij speciaal gericht voor één persoon, namelijk Darice da Cuba. Het is van groot belang om achter haar specifieke voorkeuren en haar denkwijze te komen, om daarna de voor haar perfect vormgegeven captions te kunnen maken. Ik ben daarom op 6 mei in gesprek gegaan met Darice en heb hier de volgende informatie uit kunnen halen:
+Deze uiteindelijk visueel aantrekkelijke scène maken wij speciaal gericht voor één persoon, namelijk Darice da Cuba. Het is van groot belang om achter haar specifieke voorkeuren en haar denkwijze te komen, om daarna de voor haar perfect vormgegeven captions te kunnen maken. Ik ben daarom op 6 mei in gesprek gegaan met Darice en heb hier de volgende informatie uit kunnen halen:
 
 1.	De captions moeten genoeg informatie bevatten om Darice de film zo optimaal mogelijk te laten beleven. Wel moeten we er volgens Darice voor oppassen niet te veel details in de captions te zetten. Door te veel details te benoemen kan het voorkomen dat ze nog niet alles gelezen heeft, terwijl het desbetreffende beeld van de film wel al aan het switchen is. 
 
@@ -34,14 +35,14 @@ Deze uiteindelijk visueel aantrekkelijke scene maken wij speciaal gericht voor �
 
 Ik ben begonnen met het visueel aantrekkelijker maken van de al bestaande saaie captions. Allereest heb ik het advies van Darice opgevolgd en heb ik de namen van de personages voor elke zin gezet, zodat je als kijker ten alle tijden weet wie wat zegt. 
 
-Aan het begin van de scene heb ik ook één zin uit elkaar gehaald. Deze zijn nu kleiner en korter en komen om de beurt in beeld. Originele zin: “Officer KD6-3.7. Let’s begin. Ready? 
+Aan het begin van de scène heb ik ook één zin uit elkaar gehaald. Deze zijn nu kleiner en korter en komen om de beurt in beeld. Originele zin: “Officer KD6-3.7. Let’s begin. Ready? 
 Elk woordje kwam daarnaast eerst een voor een in beeld, totdat het een hele lange zin had gevormd. Ik vond dit persoonlijk niet fijn leesbaar, waardoor ik dat heb aangepast. Het enige stukje dat ik letter voor letter heb gelaten is: “KD6-3.7”. Dit aangezien het personage deze letters en cijfers met een reden een voor een uitspreekt. Door het nu ook een voor een in beeld te laten komen, wordt dit ook duidelijk voor een doof persoon. 
 
 Daarnaast laat ik ook het woordje ‘ready’ nog net iets later in beeld komen. Dit aangezien het geen volledige zin is en je het personage als het ware een hele korte pauze hoort nemen. Als je de stem zelf niet hoort en alles zou wel in een keer in beeld komen denk ik dat je het anders zou kunnen interpreteren.
 
 Ik heb het beeld in het midden gezet, een grijze achtergrond toegevoegd en iets groter gemaakt. Darice heeft, zoals ik eerder al zei, aangegeven spannende films vaak in de avond te kijken. Daarnaast weet ik van mezelf dat het niet erg prettig is, wanneer je in het donker naar een heel wit beeld moet kijken. Vandaar mijn keuze om de achtergrond grijs te maken. Dat het beeld in het midden staat ziet er naar mijn mening logischer uit dan bijvoorbeeld in een hoek.
 
-Daarna heb ik de tekst even gelaten voor wat het is en ben ik begonnen aan de geluiden. Het eerste geluid die ik visueel heb proberen vorm te geven is meteen aan het begin van de scene. Hier hoor je wat harde bons geluiden, waardoor ik ervoor heb gekozen het beeld zelf op het moment van het geluid van grote te veranderen. Ik ben toen verder gegaan met het geluid op 0:09, waarbij de achtergrond kleur steeds switched van wit naar zwart en naar wit.
+Daarna heb ik de tekst even gelaten voor wat het is en ben ik begonnen aan de geluiden. Het eerste geluid die ik visueel heb proberen vorm te geven is meteen aan het begin van de scène. Hier hoor je wat harde bons geluiden, waardoor ik ervoor heb gekozen het beeld zelf op het moment van het geluid van grote te veranderen. Ik ben toen verder gegaan met het geluid op 0:09, waarbij de achtergrond kleur steeds switched van wit naar zwart en naar wit.
 
 Alle andere geluiden die ik daarna nog tegenkwam, heb ik aan de linker kant van het beeld aangeduid met een beschrijving van het geluid. Echter is de langdurige pieptoon wanner Constant K zich in een klein kamertje bevindt een uitzondering. Dit heb ik namelijk aangeduid met een bewegende geluidsgolf door het beeld heen.
 
@@ -51,29 +52,21 @@ Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat wa
 
 ### Darice da Cuba:
 
-Darice vond in de tweede feedback sessie mijn video er erg goed uit zien. Zelf had zij er op dat moment niet eens wat op aan te merken.
 
-Ze vond het fijn dat ik naar haar geluisterd had wat betreft de manier van kleurgebruik. 
-
-Mijn specifieke vraag voor haar op dat moment was of zij liever had dat de geluidsaanduidingen in het beeld kwamen te staan of juist daarnaast. Hierbij had zij geen specifiek voorkeur, dus dit mocht ik aan de hand van mijn eigen voorkeuren gaan beslissen. 
-Overigens vond ze de aanduidingen zelf, losstaand van de specifieke plek, heel duidelijk. Dit was voor mij ook nog de vraag aangezien dit verticaal in plaats van horizontaal te lezen is, wat voor sommige mensen als heel erg onnatuurlijk wordt gezien.
-
-Ze wou het alleen wel graag gecentreerd zien.
 
 ### Vasilis van Gemert:
 
-Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgende te horen. Hij vond de visuele dingen die ik had toegevoegd er erg leuk uit zien, echter had hij een beetje het idee dat ik maar liefst 3 verschillende stijlen aan het hanteren was. Zo maakte nu nog gebruik van een bewegend scherm bij het eerste geluid, geluidsbeschrijvingen bij de volgende 4 geluiden en daarna een bewegende SVG. Wanneer je iets gaat vormgeven is het natuurlijk aan het begin goed om meerdere stijlen uit te testen, om daarna vervolgens er eentje te kiezen en daarmee verder te gaan. Dit was dan ook zijn tip voor mij, om als volgende stap echt een stijl te gaan kiezen. 
+Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgende te horen. Hij vond de visuele dingen die ik had toegevoegd er erg leuk uit zien, echter had hij een beetje het idee dat ik maar liefst 3 verschillende stijlen aan het hanteren was. Zo maakte nu nog gebruik van een bewegend scherm bij het eerste geluid, geluidsbeschrijvingen bij de volgende 4 geluiden en daarna een bewegende SVG. Wanneer je iets gaat vormgeven is het natuurlijk aan het begin goed om meerdere stijlen uit te testen, om daarna vervolgens er eentje te kiezen en daarmee verder te gaan. Dit was dan ook zijn tip voor mij, om als volgende stap echt een stijl te gaan kiezen.
 
 # Versie 2: wat heb ik aangepast?
 
 [Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html) - video is bewerkt tot 1.26 min.
 
-Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scene. Ik heb allereerst de geluidsomschrijvingen allemaal in het midden van het beeld beeld gezet. Daarna ben ik begonnen met het constant maken van mijn aanpassingen. Zo heb ik er nu voor gekozen om bij elk geluid een geluidsomschrijving te plaatsen in combinatie met een visueel element. Denk dan aan het trillen van het scherm, de opacity en het groter of kleiner worden van het scherm.
+Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scène. Ik heb allereerst de geluidsomschrijvingen allemaal in het midden van het beeld gezet. Daarna ben ik begonnen met het constant maken van mijn aanpassingen. Zo heb ik er nu voor gekozen om bij elk geluid een geluidsomschrijving te plaatsen in combinatie met een visueel element. Denk dan aan het trillen van het scherm, de opacity en het groter of kleiner worden van het scherm.
 
-De laatste lange hoge pieptoon van scene 1 is hierbij wel een uitzondering. Ook deze pieptoon wordt natuurlijk weer ondersteund met een geluidsomschrijving en een visueel element maar dit keer ook met een bewegende SVG. Dit omdat ik dit geluid erg belangrijk vind voor de scene, wanneer dit geluid niet goed over komt blijf er eigenlijk helemaal niks qua sfeer of emotie over.
+De laatste lange hoge pieptoon van scène 1 is hierbij wel een uitzondering. Ook deze pieptoon wordt natuurlijk weer ondersteund met een geluidsomschrijving en een visueel element maar dit keer ook met een bewegende SVG. Dit omdat ik dit geluid erg belangrijk vind voor de scène, wanneer dit geluid niet goed over komt blijf er eigenlijk helemaal niks qua sfeer of emotie over.
 
 De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad, aangezien ik de rode kleur toch niet helemaal bij de manier van praten vond passen. Ik denk dat de omschrijving van het personage en de smiley al genoeg boosheid met zich mee brengen. 
-
 
 # Versie 3: Wat ik heb ik nog aangepast
 
@@ -83,40 +76,26 @@ Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Dari
 
 Het enige geluid dat nog niet ondersteunt werd door een beweging of verandering van het beeld zelf, was de laatste hoge pieptoon. Om deze wat minder ‘buiten de boot’ te laten vallen, heb ik er daar nog voor gezorgd dat het scherm steeds kleiner wordt. Wanneer het geluid abrupt stopt, springt het scherm weer naar zijn normale formaat.
 
-Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug tte veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
+Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug te veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
 
 # Versie 4:
 
 [Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html) - video is bewerkt tot 1.26 min.
 
 # De keuze voor het font "Brenner"
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. Hier kan je je verdiepen in dit font. Als je kiest voor dit font dan heb je de beschikking over een sans serif, een condensed, een serif, een monotype, een slab, een display en een script versie. En veel van deze versies hebben varianten van light tot bold, en allemaal zowel bold als italic.
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn.
+
+
 
 # De keuzes voor de personage teksten
 
-Waar ze staan
-Welke kleuren ze hebben
-Welk font ze hebben
-
-(de eerste zinnen heb ik uit elkaar getrokken en aparte classes van gemaakt)
-
-
-
-Ik heb ervoor gekozen om de gesproken teksten uit te lijnen met de linkerkant van de video.
-Dit zodat je als kijker altijd weet vanaf waar de zin gaat beginnen. En je dit bijvoorbeeld niet nog eerst moet ‘zoeken’. Elke zin heeft een verschillende lengte en wanneer je dit in het midden uitlijnt veranderd dus ook constant de plek waar de zin begint. Dit zoeken kan tijd wegnemen van het kijken naar het beeld zelf. 
 
 # De keuzes voor de sound teksten
 
-De zware trommel geluiden aan het begin van de scene worden aangegeven met een donkergrijze kleur tekst.
-De buzzer wordt aangegeven met de kleur oranje.
-Het alarm of de sirene die kort af gaat wordt aangegeven met een rode kleur tekst.
-Het hoge piepje die in totaal 3x in het fragment voor komt, wordt aangegeven met een paarse kleur tekst.
-De hoge piep in de verhoorkamer wordt aangegeven met een witte tekst.
+
 
 # De keuzes voor de visuele elementen
 
-Aangezien die laatste piep in scene 1 zo typerend is voor de film wou ik daar meer visuele elementen aan toe voegen. Dit om hopelijk de beleving voor Darice zo optimaal mogelijk te maken.
+
 
 # Principes verwerkt in mijn eindversie
 Het idee achter de exclusive design principles is dat je iets ontwerpt voor één specifieke persoon, in dit geval Darice. Laat de standaard regels en normen gaan en ga echt out-of-the-box.
@@ -149,10 +128,9 @@ Na het kijken van de film zijn mijn een aantal dingen specifiek over het fragmen
 
 Wanneer personages praten, zijn zij vak niet goed in beeld om te kunnen zien wie het zegt. Dit moet Darice dus allemaal meekrijgen via de captions. Dit hindert haar naar mijn mening in het optimaal kunnen beleven van de film. Wat voor emotie dat personage bijvoorbeeld in zijn stem heeft is verder nergens anders te zien. Terwijl Darice dat anders nog wel een beetje van iemands gezicht kan aflezen. 
 
-Daarnaast is het fragment is inhoudelijk net heel sterk en wordt als het waren bij elkaar gehouden door de omgevingsgeluiden. Het fragment bouwt door middel van de verschillende omgevingsgeluiden bepaalde spanning op, die na scene 1 ook abrupt wegvalt.
+Daarnaast is het fragment is inhoudelijk net heel sterk en wordt als het waren bij elkaar gehouden door de omgevingsgeluiden. Het fragment bouwt door middel van de verschillende omgevingsgeluiden bepaalde spanning op, die na scène 1 ook abrupt wegvalt.
 
-De personages stralen voorderest niet veel emotie uit maar zijn daardoor wel erg stoer, sterk en macho. De sfeer die de film met behulp van de vele omgevingsgeluiden wilt overbrengen, is naar mijn mening een beetje hetzelfde als de personages, namelijk ruig, donker en stoer.
-
+De personages stralen voorderest niet veel emotie uit maar zijn daardoor wel erg stoer, sterk en macho. De sfeer die de film met behulp van de vele omgevingsgeluiden wil overbrengen, is naar mijn mening een beetje hetzelfde als de personages, namelijk ruig, donker en stoer.
 
 #### Mijn identiteit
 
@@ -165,15 +143,18 @@ Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zij
 
 ### Add nonsence
 
-Als ik nu terugkijk, kan ik mij bijna niet meer voorstellen hoe deze scene eruitzag zonder alle visuele aspecten. Aan het begin van deze opdracht, voelde alles heel onnatuurlijk en alles eigenlijk wel een beetje ‘nonsence’. Echter nu je het gemaakt heb, zie je hoeveel toevoeging het geeft aan een scene, als dove kun je de film nu echt veel beter beleven. Een scherm laten trillen of een afbeeldingskleur veranderen vond ik toen al best wel grote veranderingen. Vooral omdat dit dus ook helemaal nieuw voor mij was. 
+Als ik nu terugkijk, kan ik mij bijna niet meer voorstellen hoe deze scène eruitzag zonder alle visuele aspecten. Aan het begin van deze opdracht, voelde alles heel onnatuurlijk en alles eigenlijk wel een beetje ‘nonsence’. Echter nu je het gemaakt heb, zie je hoeveel toevoeging het geeft aan een scène, als dove kun je de film nu echt veel beter beleven. Een scherm laten trillen of een afbeeldingskleur veranderen vond ik toen al best wel grote veranderingen. Vooral omdat dit dus ook helemaal nieuw voor mij was. 
 
-Toen ik na een tijdje lekker bezig was en ik steeds aan het einde van de eerste scene die harde lange piep toon hoorde, ben ik pas echt meer in ‘nonsense’ ideeën gaan denken. Bij die specifieke piep bleef ik echter maar denken aan een geluidsgolf. Zou dat dan zo’n ‘nonsense’ idee zijn, om eens te gaan proberen?
+Toen ik na een tijdje lekker bezig was en ik steeds aan het einde van de eerste scène die harde lange pieptoon hoorde, ben ik pas echt meer in ‘nonsense’ ideeën gaan denken. Bij die specifieke piep bleef ik echter maar denken aan een geluidsgolf. Zou dat dan zo’n ‘nonsense’ idee zijn, om eens te gaan proberen?
 
 Eerst had ik nog besloten dit idee niet voort te zetten, eigenlijk doordat ik niet het vertrouwen in mezelf had dat ik dat kon. Zoals eerder benoemd had ik voordat dit blok begon nog helemaal geen ervaring met HTML en CSS, vandaar kan het soms ook erg lastig zijn om tte weten wat er allemaal mogelijk is. Dus toen ik met het idee van de geluidsgolf kwam, wist ik niet of ik dit daadwerkelijk met code kon realiseren.
 
 Ik ben gaan zoeken naar andere ideeën om deze laatste piep toon te visualiseren. Echter ben ik naar mijn mening nooit op iets beters uitgekomen, waardoor ik toen toch ben gaan spelen met de geluidsgolf. Dat ik die geluidsgolf er uiteindelijk zo in heb gekregen hoe ik dat in eerste instantie in mijn hoofd had bedacht, vind ik heel leuk om te zien.
 
-Uiteindelijk ben ik dus meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideeën maar gewoon eens te proberen. Niet alleen maar het vergroten en het laten trillen van het scherm, maar echt iets van buitenaf toevoegen. Ik ben erg blij hoe die geluidsgolf nu uiteindelijk in de scene verwerkt zit.
+Uiteindelijk ben ik dus meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideeën maar gewoon eens te proberen. Niet alleen maar het vergroten en het laten trillen van het scherm, maar echt iets van buitenaf toevoegen. Ik ben erg blij hoe die geluidsgolf nu uiteindelijk in de scène verwerkt zit.
 
+# Nog niet uitgewerkte ideeën:
 
+Ik had graag nog gezien dat de geluidsomschrijving op twee plekken in het fragment meebewegen met het scherm. Het scherm veranderd bij twee geluiden namelijk van grote, terwijl de omschrijving op dat moment blijft staan. Ik weet dat je dit kunt doen keyframes toe te voegen. Echter voel ik mij na deze 3 weken nog steeds niet helemaal huis in de code en heb ik daar gewoon de tijd niet meer voor. 
 
+Daarnaast spreekt het natuurlijk voor zich dat ik ook graag verder had willen gaan met scène 2. Ik heb ongeveer in de tweede week echter een afspraak met mezelf gemaakt, dat ik sowieso scène 1 helemaal af zou maken. Op het moment dat ik dat punt had bereikt, had ik naar mijn idee geen genoeg tijd meer om ook aan scène 2 of een deel van scène 2 te beginnen. Ik heb de tijd die ik toen nog had gebruikt om nog een kritisch naar mijn werk in scène 1 te kijken en hierbij te kiezen voor kwaliteit boven kwantiteit. 
