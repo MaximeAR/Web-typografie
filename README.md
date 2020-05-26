@@ -41,7 +41,7 @@ Deze uiteindelijk visueel aantrekkelijke scène maken wij speciaal gericht voor 
 
 15.	Houd van nieuwe uitdagingen.
 
-# Versie 1: wat heb ik gemaakt?
+# Versie 1:
 [Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html) - video is bewerkt tot 0.43 min.
 
 Ik ben begonnen met het visueel aantrekkelijker maken van de al bestaande saaie captions. Allereest heb ik het advies van Darice opgevolgd en heb ik de namen van de personages voor elke zin gezet, zodat je als kijker ten alle tijden weet wie wat zegt. 
@@ -68,7 +68,7 @@ Mijn specifieke vraag voor haar op dat moment was of zij liever had dat de gelui
 ### Vasilis van Gemert:
 Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgende te horen. Hij vond de visuele dingen die ik had toegevoegd er erg leuk uit zien, echter had hij een beetje het idee dat ik maar liefst 3 verschillende stijlen aan het hanteren was. Zo maakte nu nog gebruik van een bewegend scherm bij het eerste geluid, geluidsbeschrijvingen bij de volgende 4 geluiden en daarna een bewegende SVG. Wanneer je iets gaat vormgeven is het natuurlijk aan het begin goed om meerdere stijlen uit te testen, om daarna vervolgens er eentje te kiezen en daarmee verder te gaan. Dit was dan ook zijn tip voor mij, om als volgende stap echt een stijl te gaan kiezen.
 
-# Versie 2: wat heb ik aangepast?
+# Versie 2: 
 [Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html) - video is bewerkt tot 1.26 min.
 
 Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scène. Ik heb allereerst de geluidsomschrijvingen allemaal in het midden van het beeld gezet. Daarna ben ik begonnen met het constant maken van mijn aanpassingen. Zo heb ik er nu voor gekozen om bij elk geluid een geluidsomschrijving te plaatsen in combinatie met een visueel element. Denk dan aan het trillen van het scherm, de opacity en het groter of kleiner worden van het scherm.
@@ -77,7 +77,7 @@ De laatste lange hoge pieptoon van scène 1 is hierbij wel een uitzondering. Ook
 
 De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad, aangezien ik de rode kleur toch niet helemaal bij de manier van praten vond passen. Ik denk dat de omschrijving van het personage en de smiley al genoeg boosheid met zich mee brengen. 
 
-# Versie 3: Wat ik heb ik nog aangepast
+# Versie 3: 
 [Versie 3](https://maximear.github.io/Web-typografie/Versie3/index.html) - video is bewerkt tot 1.26 min.
 
 Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis, ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
@@ -89,32 +89,39 @@ Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk ee
 # Versie 4:
 [Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html) - video is bewerkt tot 1.26 min.
 
-# De keuze voor het font "Brenner"
+# Het font "Brenner":
+Darice gaf aan dat het gebruik van verschillende ‘Families’ binnen één lettertype haar erg kunnen helpen bij het beter begrijpen van een film of serie. Ik heb er mede daarom ook voor gekozen om het “Brenner” font te gebruiken voor mijn captions. Met dit font heb ik de mogelijkheid om grote verschillen te creëren tussen bijvoorbeeld verschillende personages. Het is uiterst flexibel, waardoor ik ook echt wat met de elke ‘Families’ wat ander over probeer te brengen. Ik ben niet té crazy gegaan met het font, aangezien het voor Darice wel gewoon nog leesbaar moet blijven en zij al eerder aangaf graag consistentie terug te willen zien in het fragment.
+
+Voor de geluidsomschrijvingen heb ik gekozen voor Brenner slab. Het lettertype voor de geluidsomschrijvingen hoefde voor mij niet per se een verhaal te vertellen of een emotie/gevoel over te brengen. Ik ben eigenlijk opzoek gegaan naar het meest nietszeggende lettertype binnen de Brenner Family. Het is een heel strak lettertype met allemaal gelijken schreven en heel goed leesbaar. Ik heb de style overal op normaal gezet en hem een weight van 900 gegeven omdat dat formaat wel mooi stond.
+
+Voor de automatic voice heb ik gekozen voor Brenner mono. Ik was eigenlijk opzoek naar zo’n typisch computer lettertype. Gevoelloos en statisch dat niet met de hand na te maken is. De stem is duidelijk opgenomen en wordt via een computer afgespeeld. Dit wou ik ook via de Family communiceren en ik denk dat dat met deze Family het beste kan. 
+
+Voor Constant K. heb ik gekozen voor de normale Brenner. Ik wou een wat liefdevoller en menselijker lettertype voor Constant K. Dit omdat hij het enige personage in het fragment is, die je echt volgt en misschien al een beetje leert kennen. Toch wou ik alles wel nog heel strak en stoer houden waardoor ik hierop uit kwam.
+
+De strakste Family heb ik dus uiteindelijk uitgekozen voor de automatic voice, daarna volgt de geluidsomschrijving en de rustigste meest toegankelijke Family is voor Constant K.
+
+# De keuzes voor de personage teksten:
+
+
+# De keuzes voor de sound teksten:
 
 
 
-# De keuzes voor de personage teksten
-
-
-# De keuzes voor de sound teksten
+# De keuzes voor de visuele elementen:
 
 
 
-# De keuzes voor de visuele elementen
-
-
-
-# Principes verwerkt in mijn eindversie
+# Principes:
 Het idee achter de exclusive design principles is dat je iets ontwerpt voor één specifieke persoon, in dit geval Darice. Laat de standaard regels en normen gaan en ga echt out-of-the-box.
 
-### Study situation
+### Study situation:
 Voor horende mensen is het nagenoeg onmogelijk om daadwerkelijk te ervaren hoe het is om doof te zijn.
 
 Op het moment dat ik heb doen besluiten om het fragment zelf ook eens zonder geluid te gaan bekijken, had ik deze natuurlijk al een paar keer gezien. Ik wist daardoor op sommige momenten al wat er zou gebeuren en wat voor gevoel dat met zich meebracht. Darice heeft het fragment nooit kunnen luisteren. Niet helemaal eerlijk en identiek dus, vind ik zelf. Toch heb ik wel het idee dat ik er meer van heb opgestoken dan ik in eerste instantie misschien had gedacht.
 
 Ook de gesprekken met Darice hebben mij kleine details doen inzien. Ik heb het fragment denk ik wel zo’n 5x aandachtig afgespeeld (met geluid), om eens echt mijn focus te leggen op de vele achtergrondgeluiden die ik normaalgesproken eigenlijk altijd wel voor lief neem. Ik ben er allereerst achter gekomen hoe belangrijk die geluiden allemaal zijn in een, in dit geval, enigszins spannend fragment. Echter blijkt ook dat 1 geluid meestal uit meerdere geluiden bestaat en/of heel snel in elkaar overlopen, wat natuurlijk weer heel moeilijk te omschrijven is voor een doof persoon. Een hele uitdaging dus!
 
-### Ignore conventions
+### Ignore conventions:
 Normaal gesproken worden de personages in de captions elke keer tussen haakjes aan het begin van de zin genoemd. Ik zag persoonlijk geen toegevoegde waarden aan deze haakjes en heb deze dan ook weg gelaten. Ook Darice bevestigde in het feedback moment nog even, dat het met het gebruik van verschillende kleuren duidelijk en onderscheidbaar genoeg is en deze dus eigenlijk niet nodig zijn. 
 
 Daarnaast heb ik de geluidsomschrijvingen niet op dezelfde plek als de spraak captions geplaatst maar verticaal links in het beeld. Ik negeer hier 2 grote ‘conventions’. Nummer 1 is dat alle tekst normaal gesproken altijd horizontaal te lezen is en nummer 2 is dat de tekst nooit links in het beeld staat.
@@ -123,14 +130,14 @@ De grootste ‘convention’ die ik naar mijn idee genegeerd heb is de zelf toeg
 
 Als laatste heb ik bij elk geluidje proberen te spelen met het beeld zelf, door deze te laten trillen, de opacity te veranderen of kleiner en groter te maken.
 
-### Prioritise identity
+### Prioritise identity:
 Voor deze specifieke opdracht, was het eigenlijk aan mijn taak om rekening te houden meet 3 verschillende identiteiten. Natuurlijik allereest de identiteit van Darice de Cuba, waar ik het al eerder over gehad heb. Maar ook de identiteit van de film zonder captions en mijn eigen (de makers) identiteit zijn hierbij super belangrijk.
 
-#### Darice de Cuba
+#### Darice de Cuba:
 Als ik de identiteit van Darice na ons gesprekje zou moeten vaststellen, zit dit er alsvolgt uit: 
 Ik zie Darice als een sterk en krachtig persoon, die het eens in de zoveel tijd leuk vind om spanning op te zoeken en daarin uitgedaagd te worden. Wel houd ze van de standaard normen en hoeft het voor haar allemaal niet té gek.
 
-#### De film
+#### De film:
 Na het kijken van de film zijn mijn een aantal dingen specifiek over het fragment dat wij nu aanpassen opgevallen. 
 
 Wanneer personages praten, zijn zij vak niet goed in beeld om te kunnen zien wie het zegt. Dit moet Darice dus allemaal meekrijgen via de captions. Dit hindert haar naar mijn mening in het optimaal kunnen beleven van de film. Wat voor emotie dat personage bijvoorbeeld in zijn stem heeft is verder nergens anders te zien. Terwijl Darice dat anders nog wel een beetje van iemands gezicht kan aflezen. 
@@ -139,15 +146,18 @@ Daarnaast is het fragment is inhoudelijk net heel sterk en wordt als het waren b
 
 De personages stralen voorderest niet veel emotie uit maar zijn daardoor wel erg stoer, sterk en macho. De sfeer die de film met behulp van de vele omgevingsgeluiden wil overbrengen, is naar mijn mening een beetje hetzelfde als de personages, namelijk ruig, donker en stoer.
 
-#### Mijn identiteit
+#### Mijn identiteit:
 Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zijn en blijven en de kijker niet afleiden van het overkoepelende doel. Daarnaast ben ik iemand die altijd wel graag binnen de lijntjes werkt. Echter heb ik daar bij deze opdracht wel wat meer afstand van proberen te doen. Dingen visueel aantrekkelijk maken, door zelf in je eigen creativiteit te graven, is iets wat ik erg leuk vind om te doen.
 
-#### Conclusie
+#### Conclusie:
+Ik heb natuurlijk geprobeerd alle drie de verschillende identiteiten zo goed mogelijk te verwerken in het uiteindelijke fragment. Darice en ik lijken naarr mijn mening qua identiteit wel veel op elkaar, waardoor onze voorkeuren combineren niet echt een groot probleem was. 
 
+Zo heb ik geprobeerd niet te veel gekke dingen met het beeld zelf te doen, om daarmee weer wat meer richting Darice haar identiteit te gaan. Voor Darice is het anders niet lekker film. De enkele keer dat het beeld misschien wat te veel doet is wanneer die steeds kleiner wordt aan het einde van scéne 1. Hier is echter wel goed over na gedacht. Op het beeld gebeurt er op dat moment namelijk niets spannends en zijn er geen kleine details. Zelfs wanneer het scherm op dat moment op zijn kleinst is, zal Darice nog steeds niets van de film missen. 
 
+Qua kleur gebruik heb ik enkel en alleen donkere kleuren gebruikt, zoals ‘darkred’, ‘darkblue’ en ‘darkgreen’. Voor Darice nog steeds onderscheidend genoeg maar wel in de sfeer van de film.
+Aan de captions heb ik voorderest niet veel gezeten.
 
-
-### Add nonsence
+### Add nonsence:
 Als ik nu terugkijk, kan ik mij bijna niet meer voorstellen hoe deze scène eruitzag zonder alle visuele aspecten. Aan het begin van deze opdracht, voelde alles heel onnatuurlijk en alles eigenlijk wel een beetje ‘nonsence’. Echter nu je het gemaakt heb, zie je hoeveel toevoeging het geeft aan een scène, als dove kun je de film nu echt veel beter beleven. Een scherm laten trillen of een afbeeldingskleur veranderen vond ik toen al best wel grote veranderingen. Vooral omdat dit dus ook helemaal nieuw voor mij was. 
 
 Toen ik na een tijdje lekker bezig was en ik steeds aan het einde van de eerste scène die harde lange pieptoon hoorde, ben ik pas echt meer in ‘nonsense’ ideeën gaan denken. Bij die specifieke piep bleef ik echter maar denken aan een geluidsgolf. Zou dat dan zo’n ‘nonsense’ idee zijn, om eens te gaan proberen?
@@ -158,7 +168,7 @@ Ik ben gaan zoeken naar andere ideeën om deze laatste piep toon te visualiseren
 
 Uiteindelijk ben ik dus meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideeën maar gewoon eens te proberen. Niet alleen maar het vergroten en het laten trillen van het scherm, maar echt iets van buitenaf toevoegen. Ik ben erg blij hoe die geluidsgolf nu uiteindelijk in de scène verwerkt zit.
 
-# Nog niet uitgewerkte ideeën:
+# Niet uitgewerkte ideeën:
 Ik had graag nog gezien dat de geluidsomschrijving op twee plekken in het fragment meebewegen met het scherm. Het scherm veranderd bij twee geluiden namelijk van grote, terwijl de omschrijving op dat moment blijft staan. Ik weet dat je dit kunt doen keyframes toe te voegen. Echter voel ik mij na deze 3 weken nog steeds niet helemaal huis in de code en heb ik daar gewoon de tijd niet meer voor. 
 
 Daarnaast spreekt het natuurlijk voor zich dat ik ook graag verder had willen gaan met scène 2. Ik heb ongeveer in de tweede week echter een afspraak met mezelf gemaakt, dat ik sowieso scène 1 helemaal af zou maken. Op het moment dat ik dat punt had bereikt, had ik naar mijn idee geen genoeg tijd meer om ook aan scène 2 of een deel van scène 2 te beginnen. Ik heb de tijd die ik toen nog had gebruikt om nog een kritisch naar mijn werk in scène 1 te kijken en hierbij te kiezen voor kwaliteit boven kwantiteit. 
