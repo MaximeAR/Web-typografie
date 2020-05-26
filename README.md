@@ -104,16 +104,25 @@ De angry man heeft als Brenner Family Bold gekregen. Dit moest een bijna agressi
 
 De strakste Family heb ik dus uiteindelijk uitgekozen voor de automatic voice, daarna volgt de geluidsomschrijving en de rustigste meest toegankelijke Family is voor Constant K. De angry man staat een beetje op zichzelf en is helemaal anders als de rest.
 
-# De keuzes voor de personage teksten:
+# Tekst keuzes:
+Ik heb ervoor gekozen om de gesproken teksten uit te lijnen met de linkerkant van de video. Dit zodat je als kijker altijd weet vanaf waar de zin gaat beginnen en je dit bijvoorbeeld niet nog eerst moet ‘zoeken’ . Elke zin heeft een verschillende lengte en wanneer je dit in het midden uitlijnt veranderd dus ook constant de plek waar de zin begint. Dit zoeken kan tijd wegnemen van het kijken naar het beeld zelf, waardoor je misschien dingen mist.
 
+Elk personage heeft zijn eigen kleur gekregen en die blijven altijd hetzelfde. Zo is de automatic voice ‘darkblue’, Constant K. ‘darkgreen, de angry man ‘black’ en de geluidsomschrijvingen altijd ‘darkred’. Achter de kleurenverdeling zit geen verdere beredenering. Enkel de angry man die als kleur zwart kan hebben omdat de tekst die hij zegt al ‘darkgrey’ is. 
 
-# De keuzes voor de sound teksten:
+Welke font family elk personage heeft gekregen is hierboven te lezen. 
 
+# Soundtekst keuzes:
+De geluidsomschrijvingen zijn het gehele fragment verticaal te lezen. Waarbij ze, in de meeste gevallen, ook echt in het beeld staan. Uitzonderingen zijn de momenten dat het scherm beweegt waardoor de geluidsomschrijvingen hier niet inblijven. Ze zijn daarnaast als het ware links uitgelijnd maar staan hierbij wel altijd gecentreerd in het midden van het beeld.
 
+Kleurkeuze gebaseerd op eigen voorkeur. Donkerrood is opvallend en hard maar tegelijkertijd toch spannend en mysterieus.
 
-# De keuzes voor de visuele elementen:
+Deze geluidsomschrijvingen staan altijd tussen haakjes. Dit zodat je je als kijker niet kan verwarren door te denken dat het bijvoorbeeld door een personage gezegd wordt. Ze blijven net zo lang in beeld, totdat het geluid voorbij is.
 
+# Visuele elementen keuzes:
 
+Ik begin met het twee keer vergroten van het beeld omdat de muziek erg zwaar is en ik dit een mooie manier vond om dit te visualiseren. Daarna gaan we verder naar de 'buzzer' waar ik het beeld heen en weer laat schudden en de achtergrondkleur steeds kort verander van wit naar zwart. Dit was eigenlijk een hele voor de hand liggende keuze, aangezien ik dit precies op de maat van het geluid heb kunnen visualiseren. Vervolgens gaat er een kort alarm af, waarbij ik het beeld weer een stukje groter laat worden. Dit heb ik besloten omdat het alarm best hard klinkt. Ook voeg ik op hetzelfde moment nog een rode achtergrond toe, aangezien alarmen vaak met de kleur rood aangegeven worden. Hierna komt er 3x hetzelfde geluid wat ik heb gevisualiseerd met een korte ease-in en ease-out opacity van 50%. Het geluid is hoog en hoe witter iets iets hoe feller/hoger iets is, vandaar deze keuze. Als laatste komen we dan bij die lange hoge piep, die ik gevisualiseerd heb door het beeld heel langzaam kleiner te laten worden. Ook heb ik hier een SVG ingevoegd, die letterlijk een zichtbare hoge piep is. Dit aangezien die laatste piep in scène 1 zo typerend is voor het fragment. Ik wou daar gewoon meer visuele elementen aan toe voegen, om zo hopelijk de beleving voor Darice zo optimaal mogelijk te maken. Op het moment dat de piep abrupt stopt springt het beeld weer naar zijn normale formaat, kleurt de achtergrond zwart en verdwijnen de geluidsgolven.
+
+De laatste 3 zinnen uit scéne 1 gaan hierdoor daarna door met witte letters op een zwarte achtergrond.
 
 # Principes:
 Het idee achter de exclusive design principles is dat je iets ontwerpt voor één specifieke persoon, in dit geval Darice. Laat de standaard regels en normen gaan en ga echt out-of-the-box.
@@ -176,5 +185,7 @@ Uiteindelijk ben ik dus meer out-of-the-box gaan denken door mijn eerst onmogeli
 
 # Niet uitgewerkte ideeën:
 Ik had graag nog gezien dat de geluidsomschrijving op twee plekken in het fragment meebewegen met het scherm. Het scherm veranderd bij twee geluiden namelijk van grote, terwijl de omschrijving op dat moment blijft staan. Ik weet dat je dit kunt doen keyframes toe te voegen. Echter voel ik mij na deze 3 weken nog steeds niet helemaal huis in de code en heb ik daar gewoon de tijd niet meer voor. 
+
+Ook de geluidsomschrijvingen nog laten bewegen was een van mijn volgende ideeën. Wanneer de ‘buzzer’ bijvoorbeeld in beeld komt, deze ook heen en weer laten schudden.
 
 Daarnaast spreekt het natuurlijk voor zich dat ik ook graag verder had willen gaan met scène 2. Ik heb ongeveer in de tweede week echter een afspraak met mezelf gemaakt, dat ik sowieso scène 1 helemaal af zou maken. Op het moment dat ik dat punt had bereikt, had ik naar mijn idee geen genoeg tijd meer om ook aan scène 2 of een deel van scène 2 te beginnen. Ik heb de tijd die ik toen nog had gebruikt om nog een kritisch naar mijn werk in scène 1 te kijken en hierbij te kiezen voor kwaliteit boven kwantiteit. 
