@@ -39,19 +39,17 @@ Elk woordje kwam daarnaast eerst een voor een in beeld, totdat het een hele lang
 
 Daarnaast laat ik ook het woordje ‘ready’ nog net iets later in beeld komen. Dit aangezien het geen volledige zin is en je het personage als het ware een hele korte pauze hoort nemen. Als je de stem zelf niet hoort en alles zou wel in een keer in beeld komen denk ik dat je het anders zou kunnen interpreteren.
 
-Ik heb het beeld in het midden gezet en iets groter gemaakt. Dit is eigenlijk puur op mijn eigen voorkeuren gebaseerd en iets wat in het midden staat valt beter op.
+Ik heb het beeld in het midden gezet, een grijze achtergrond toegevoegd en iets groter gemaakt. Darice heeft, zoals ik eerder al zei, aangegeven spannende films vaak in de avond te kijken. Daarnaast weet ik van mezelf dat het niet erg prettig is, wanneer je in het donker naar een heel wit beeld moet kijken. Vandaar mijn keuze om de achtergrond grijs te maken. Dat het beeld in het midden staat ziet er naar mijn mening logischer uit dan bijvoorbeeld in een hoek.
+
+Daarna heb ik de tekst even gelaten voor wat het is en ben ik begonnen aan de geluiden. Het eerste geluid die ik visueel heb proberen vorm te geven is meteen aan het begin van de scene. Hier hoor je wat harde bons geluiden, waardoor ik ervoor heb gekozen het beeld zelf op het moment van het geluid van grote te veranderen. Ik ben toen verder gegaan met het geluid op 0:09, waarbij de achtergrond kleur steeds switched van wit naar zwart en naar wit.
+
+Alle andere geluiden die ik daarna nog tegenkwam, heb ik aan de linker kant van het beeld aangeduid met een beschrijving van het geluid. Echter is de langdurige pieptoon wanner Constant K zich in een klein kamertje bevindt een uitzondering. Dit heb ik namelijk aangeduid met een bewegende geluidsgolf door het beeld heen.
 
 # Feedback:
 
 Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor, op 12 mei, stond er ook een feedback sessie gepland, helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze eerste meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn eerste versie. Hun ’fouten’ hoefde ik zelf dan niet meer te maken.
 
 ### Darice da Cuba:
-
-Ik heb tijdens de eerste feedback sessie meegeluisterd naar de punten die mijn mede studenten over hun werk te horen hebben gekregen. Dit was voor mij ook heel helpvol, aangezien ik die ‘fouten’ zelf niet meer hoefde te maken.
-
-Ook al had ik dus zelf niets te testen, heb ik er wel wat van geleerd. 
-
------------------------
 
 Darice vond in de tweede feedback sessie mijn video er erg goed uit zien. Zelf had zij er op dat moment niet eens wat op aan te merken.
 
@@ -63,6 +61,10 @@ Overigens vond ze de aanduidingen zelf, losstaand van de specifieke plek, heel d
 Ze wou het alleen wel graag gecentreerd zien.
 
 ### Vasilis van Gemert:
+
+Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgende te horen. Hij vond de visuele dingen die ik had toegevoegd er erg leuk uit zien, echter had hij een beetje het idee dat ik maar liefst 3 verschillende stijlen aan het hanteren was. Zo maakte nu nog gebruik van een bewegend scherm bij het eerste geluid, geluidsbeschrijvingen bij de volgende 4 geluiden en daarna een bewegende SVG. Wanneer je iets gaat vormgeven is het natuurlijk aan het begin goed om meerdere stijlen uit te testen, om daarna vervolgens er eentje te kiezen en daarmee verder te gaan. Dit was dan ook zijn tip voor mij, om als volgende stap echt een stijl te gaan kiezen. 
+
+
 
 # Versie 2: wat heb ik aangepast?
 
@@ -96,11 +98,9 @@ Dit zodat je als kijker altijd weet vanaf waar de zin gaat beginnen. En je dit b
 # De keuzes voor de sound teksten
 
 De zware trommel geluiden aan het begin van de scene worden aangegeven met een donkergrijze kleur tekst.
-
+De buzzer wordt aangegeven met de kleur oranje.
 Het alarm of de sirene die kort af gaat wordt aangegeven met een rode kleur tekst.
-
 Het hoge piepje die in totaal 3x in het fragment voor komt, wordt aangegeven met een paarse kleur tekst.
-
 De hoge piep in de verhoorkamer wordt aangegeven met een witte tekst.
 
 
@@ -109,9 +109,6 @@ De hoge piep in de verhoorkamer wordt aangegeven met een witte tekst.
 
 
 Aangezien die laatste piep in scene 1 zo typerend is voor de film wou ik daar meer visuele elementen aan toe voegen. Dit om hopelijk de beleving voor Darice zo optimaal mogelijk te maken.
-
-
-geluidsgolf
 
 
 # Principes verwerkt in mijn eindversie
@@ -129,7 +126,6 @@ Ik zie Darice als een sterk en krachtig persoon, die het eens in de zoveel tijd 
 
 #### De film
 
-Toen ik de film keek, viel mij op dat deze film inhoudelijk niet erg sterk is, maar dat de muziek je geboeid houdt. De hele film draait om het opbouwen van spanning en het zetten van duistere sferen. De personages in de film zijn sterk, stoer en heldhaftig. Alle reden om het fragment dat ik ga stijlen ook spannend en stoer te maken.
 
 #### Mijn identiteit
 
@@ -137,9 +133,7 @@ Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zij
 
 #### Conclusie
 
-Ik heb ervoor gekozen een combinatie van alle drie de identiteiten te verwerken in het fragment. Ik heb het spannende uit de film geprobeerd over te laten komen door donkere kleuren te gebruiken (zoals Darice omschreef). Ook heb ik een middenweg gevonden tussen de prettige fijne regels die Darice omschreef en mijn eigen originaliteit. Denk bij de regels die Darice omschreef aan een dubbele punt na een naam en kleuren per personage. Ik heb mijn eigen draai aan deze regels gegeven. Ik heb de sound aanduidingen in sommige gevalen laten bewegen om het tempo van de sound aan te geven. Ook heb ik bepaalde woorden in zinnen een accent gegeven wanneer hier in de film nadruk op werd gelegd. Zo heb ik geprobeerd van de normale regels af te stappen en met "nonsense" meer beleving toe proberen te voegen.
 
-Ook heb ik de drie identiteiten gecombineerd in het visueel weergeven van de geluiden. Ik heb ervoor gezorgd dat Darice het geluid kan beleven (Darice), de beweging een spanning creëert (film), maar ook dat de bewegingen out of the box zijn en nieuwe beleving creëren (eigen identiteit).
 
 
 ### Add nonsence
