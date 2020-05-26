@@ -157,6 +157,8 @@ Zo heb ik geprobeerd niet te veel gekke dingen met het beeld zelf te doen, om da
 Qua kleur gebruik heb ik enkel en alleen donkere kleuren gebruikt, zoals ‘darkred’, ‘darkblue’ en ‘darkgreen’. Voor Darice nog steeds onderscheidend genoeg maar wel in de sfeer van de film.
 Aan de captions heb ik voorderest niet veel gezeten.
 
+Ik heb de geluiden uiteindelijk allemaal een geluidsomschrijving gegeven en visueel element. Met de voorkeuren van Darice in mijn hoofd heb ik de visuele elementen vormgegeven en met de film in mijn hoofd heb ik de geluidsomschrijvingen toegevoegd. Als uitzondering heb ik dan natuurlijk nog de SVG die vooral mij heel erg heeft getriggerd en uitgedaagd. 
+
 ### Add nonsence:
 Als ik nu terugkijk, kan ik mij bijna niet meer voorstellen hoe deze scène eruitzag zonder alle visuele aspecten. Aan het begin van deze opdracht, voelde alles heel onnatuurlijk en alles eigenlijk wel een beetje ‘nonsence’. Echter nu je het gemaakt heb, zie je hoeveel toevoeging het geeft aan een scène, als dove kun je de film nu echt veel beter beleven. Een scherm laten trillen of een afbeeldingskleur veranderen vond ik toen al best wel grote veranderingen. Vooral omdat dit dus ook helemaal nieuw voor mij was. 
 
