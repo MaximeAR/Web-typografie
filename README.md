@@ -5,42 +5,28 @@ Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface D
 
 # De opdracht:
 Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Bij dit vak is het aan ons, om een scene uit de film de Blade Runner 2049 zo visueel mogelijk weer te geven met behulp van de captions en je eigen creativiteit. Dit zodat ook dove mensen deze film echt kunnen gaan beleven.
-
-Toen ik de scene zelf even zonder geluid ging kijken merkte ik pas hoe saai dat is zonder de omgevingsgeluiden
-
-Iets wordt spannend door het geluid dat er aan een scene wordt toegevoegd, ook al gebeurt er bijvoorbeeld niet eens wat in het beeld. 
+Toen ik, op advies van Darice, de scene zelf even zonder geluid ging kijken merkte ik pas hoe saai dat is. Geen omgevingsgeluiden, geen stemmen, geen piepjes, geen alarmen en geen gevoel. Iets wordt spannend door het geluid dat er aan een scene wordt toegevoegd, ook al gebeurt er bijvoorbeeld niet eens wat spannends in het beeld.
 
 # Voorkeuren Darice da Cuba:
 Deze uiteindelijk visueel aantrekkelijke scene maken wij speciaal gericht voor één persoon, namelijk Darice da Cuba. Het is van groot belang om achter haar specifieke voorkeuren en haar denkwijze te komen, om daarna de voor haar perfect vormgegeven captions te kunnen maken. Ik ben daarom op 6 mei in gesprek gegaan met Darice en heb hier de volgende informatie uit kunnen halen:
 
-De captions moeten natuurlijk genoeg informatie bevatten om Darice de film zo optimaal mogelijk te laten beleven. Wel moeten we ervoor oppassen niet te veel details in de captions te zetten. Door te veel details te benoemen kan het voorkomen dat het desbetreffende scherm al voordat alles gelezen is switched.
+1.	De captions moeten genoeg informatie bevatten om Darice de film zo optimaal mogelijk te laten beleven. Wel moeten we er volgens Darice voor oppassen niet te veel details in de captions te zetten. Door te veel details te benoemen kan het voorkomen dat ze nog niet alles gelezen heeft, terwijl het desbetreffende beeld van de film wel al aan het switchen is. 
 
-Wanneer de sprekende personen duidelijk in beeld te zien zijn, is het voor Darice niet per se nodig om aan te geven wie er spreekt. Echter waarneer er meerdere mensen zijn, ziet ze liever een naam met dubbele punt voor de zin.
+2.	Wanneer de sprekende personen duidelijk in beeld te zien zijn, is het voor Darice niet per se nodig om aan te geven wie er spreekt. Echter waarneer er meerdere mensen zijn, ziet ze liever een naam met dubbele punt voor de zin. Zo is het voor haar duidelijk wie, wat zegt.
 
-Als horend persoon heb ik vaak niet door dat sommige geluiden buiten beeld worden gehouden. Een doof persoon kan dit geluid compleet missen als dit niet in de captions wordt aangegeven. Het is volgens Darice dus erg belangrijk om juist die geluiden duidelijk aan te geven, aangezien er niets anders te zien is waaraan het geluid te koppelen is. 
+3.	Als horend persoon heb je vaak niet door dat sommige geluiden buiten beeld worden gehouden. Een doof persoon kan dit geluid compleet missen als dit niet in de captions wordt aangegeven. Het is volgens Darice dus erg belangrijk om juist die geluiden duidelijk aan te geven, aangezien er niets anders te zien is waaraan het geluid te koppelen is.
 
-Aangezien de opdracht geeft Darice aan dat het waarschijnlijk het handigste is als wij gebruik gaan maken van kleuren, dan heb je minder tekst nodig
+4.	Aangezien de opdracht geeft Darice aan dat het waarschijnlijk het handigste is, als wij gebruik gaan maken van kleuren. Door dit te doen heb je meteen minder tekst nodig. Het komt helaas vaak voor dat ze een belangrijk stuk van de film mist omdat ze de captions nog aan het lezen is. Dit gebeurt vooral bij gezichtsuitdrukkingen, deze komen over het algemeen zo kort in beeld, dat ze dit vaak over het hoofd ziet. Een doof persoon moet twee dingen tegelijkertijd in de gaten houden. Grotere gebeurtenissen op het beeld zelf kun je tijdens het lezen van de captions altijd wel vanuit je ooghoek zien. Ook een geluidsomschrijving hoeft het niet hele lang en uitgebreidt te zijn. 
 
-Als je een geluid omschrijft hoeft het niet een hele lange uitgebreide omschrijving te zijn 
+5.	Het kan naast het gebruiken van verschillende kleuren om de personages van elkaar te onderscheiden, ook handig zijn om verschillende opmaaktypes te gebruiken. Maar let wel op dat je hierin consistent blijft. Probeer niet te veel te doen met de tekst die de personages zeggen, het moet wel makkelijk leesbaar blijven. De omgevingsgeluiden altijd cursief kan bijvoorbeeld wel toegevoegde waarde hebben.
 
-Ze vindt het ook leuk als wij iets anders dan de standaard tekst verzinnen om een bepaald geluid aan te geven.
+6.	Darice geeft aan het leuk te vinden, als wij eens iets anders dan de standaard tekst verzinnen om een bepaald geluid aan te geven.
 
-Lichaamstaal zegt niet alles. Wanneer een personage een emotie uit in de film die niet heel goed zichtbaar is maar voor het verhaal wel heel belangrijk is, kan het ook helpen deze emotie te benoemen in de captions. 
+7.	Lichaamstaal zegt niet alles. Wanneer een personage een emotie uit in de film die niet heel goed zichtbaar is maar voor het verhaal wel heel belangrijk is, kan het ook helpen deze emotie te benoemen in de captions.
 
-Spannende films bewaard Darice eigenlijk altijd voor de avond.
+8.	Spannende films bewaard Darice eigenlijk altijd voor de avond.
 
-Darice associeert donkere kleuren met spanning. 
-
-1 op 1 liplezen is voor Darice wel makkelijk te doen, 
-
-Het kan naast het gebruiken van verschillende kleuren om de personages van elkaar te onderscheiden, ook handig zijn om verschillende opmaaktypes te gebruiken.
-Maar let wel op dat je hierin consistent blijft.
-Probeer niet te veel te doen met de tekst die de personages zeggen, het moet wel makkelijk leesbaar blijven. De omgevingsgeluiden altijd cursief kan bijvoorbeeld wel toegevoegde waarde hebben.
-
-Darice heeft vaak het probleem bij het kijken van films of series dat ze een belangrijk stuk van de film mist omdat ze de captions nog aan het lezen was. Dit gebeurt vooral bij gezichtsuitdrukkingen, deze komen over het algemeen zo kort in beeld, dat ze dit vaak over het hoofd ziet.
-
-Een doof persoon moet twee dingen tegelijkertijd in de gaten houden.
-Grotere gebeurtenissen op het beeld zelf kun je tijdens het lezen van de captions altijd wel vanuit je ooghoek zien. 
+9.	Darice associeert donkere kleuren met spanning.
 
 # Feedback:
 
