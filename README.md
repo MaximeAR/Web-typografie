@@ -28,9 +28,22 @@ Deze uiteindelijk visueel aantrekkelijke scene maken wij speciaal gericht voor �
 
 9.	Darice associeert donkere kleuren met spanning.
 
+# Versie 1: wat heb ik gemaakt?
+
+[Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html)
+
+Ik ben begonnen met het visueel aantrekkelijker maken van de al bestaande saaie captions. Allereest heb ik het advies van Darice opgevolgd en heb ik de namen van de personages voor elke zin gezet, zodat je als kijker ten alle tijden weet wie wat zegt. 
+
+Aan het begin van de scene heb ik ook één zin uit elkaar gehaald. Deze zijn nu kleiner en korter en komen om de beurt in beeld. Originele zin: “Officer KD6-3.7. Let’s begin. Ready? 
+Elk woordje kwam daarnaast eerst een voor een in beeld, totdat het een hele lange zin had gevormd. Ik vond dit persoonlijk niet fijn leesbaar, waardoor ik dat heb aangepast. Het enige stukje dat ik letter voor letter heb gelaten is: “KD6-3.7”. Dit aangezien het personage deze letters en cijfers met een reden een voor een uitspreekt. Door het nu ook een voor een in beeld te laten komen, wordt dit ook duidelijk voor een doof persoon. 
+
+Daarnaast laat ik ook het woordje ‘ready’ nog net iets later in beeld komen. Dit aangezien het geen volledige zin is en je het personage als het ware een hele korte pauze hoort nemen. Als je de stem zelf niet hoort en alles zou wel in een keer in beeld komen denk ik dat je het anders zou kunnen interpreteren.
+
+Ik heb het beeld in het midden gezet en iets groter gemaakt. Dit is eigenlijk puur op mijn eigen voorkeuren gebaseerd en iets wat in het midden staat valt beter op.
+
 # Feedback:
 
-Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor stond er ook een feedback sessie geplant, helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn product. 
+Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor, op 12 mei, stond er ook een feedback sessie gepland, helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze eerste meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn eerste versie. Hun ’fouten’ hoefde ik zelf dan niet meer te maken.
 
 ### Darice da Cuba:
 
@@ -48,8 +61,17 @@ Mijn specifieke vraag voor haar op dat moment was of zij liever had dat de gelui
 Overigens vond ze de aanduidingen zelf, losstaand van de specifieke plek, heel duidelijk. Dit was voor mij ook nog de vraag aangezien dit verticaal in plaats van horizontaal te lezen is, wat voor sommige mensen als heel erg onnatuurlijk wordt gezien.
 
 Ze wou het alleen wel graag gecentreerd zien.
+
 ### Vasilis van Gemert:
 
+# Versie 2: wat heb ik aangepast?
+
+[Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html)
+
+# Versie 3: Wat ik heb ik nog aangepast
+
+Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. 
+Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
 
 # De keuze voor het font "Brenner"
 Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. Hier kan je je verdiepen in dit font. Als je kiest voor dit font dan heb je de beschikking over een sans serif, een condensed, een serif, een monotype, een slab, een display en een script versie. En veel van deze versies hebben varianten van light tot bold, en allemaal zowel bold als italic.
@@ -71,10 +93,23 @@ Dit zodat je als kijker altijd weet vanaf waar de zin gaat beginnen. En je dit b
 
 # De keuzes voor de sound teksten
 
+De zware trommel geluiden aan het begin van de scene worden aangegeven met een donkergrijze kleur tekst.
+
+Het alarm of de sirene die kort af gaat wordt aangegeven met een rode kleur tekst.
+
+Het hoge piepje die in totaal 3x in het fragment voor komt, wordt aangegeven met een paarse kleur tekst.
+
+De hoge piep in de verhoorkamer wordt aangegeven met een witte tekst.
+
 
 
 # De keuzes voor de visuele elementen
 
+
+Aangezien die laatste piep in scene 1 zo typerend is voor de film wou ik daar meer visuele elementen aan toe voegen. Dit om hopelijk de beleving voor Darice zo optimaal mogelijk te maken.
+
+
+geluidsgolf
 
 
 # Principes verwerkt in mijn eindversie
@@ -114,19 +149,5 @@ Eerst had ik nog besloten dit idee niet voort te zetten, eigenlijk doordat ik ni
 Ik ben gaan zoeken naar andere ideeën om deze laatste piep toon te visualiseren. Echter ben ik naar mijn mening nooit op iets beters uitgekomen, waardoor ik toen toch ben gaan spelen met de geluidsgolf.
 
 Uiteindelijk ben ik duds meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideene maar gewoon eens te probeen. Ik ben ook erg blij hoe die geluidsgolf nu uiteindelijk in de scene verwerkt zit. 
-
-
-### Versie 1: wat heb ik gemaakt?
-
-[Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html)
-
-### Versie 2: wat heb ik aangepast?
-
-[Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html)
-
-### Versie 3: Wat ik heb ik nog aangepast
-
-Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. 
-Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
 
 
