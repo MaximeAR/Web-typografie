@@ -103,33 +103,49 @@ Het alarm of de sirene die kort af gaat wordt aangegeven met een rode kleur teks
 Het hoge piepje die in totaal 3x in het fragment voor komt, wordt aangegeven met een paarse kleur tekst.
 De hoge piep in de verhoorkamer wordt aangegeven met een witte tekst.
 
-
-
 # De keuzes voor de visuele elementen
-
 
 Aangezien die laatste piep in scene 1 zo typerend is voor de film wou ik daar meer visuele elementen aan toe voegen. Dit om hopelijk de beleving voor Darice zo optimaal mogelijk te maken.
 
-
 # Principes verwerkt in mijn eindversie
+Het idee achter de exclusive design principles is dat je iets ontwerpt voor één specifieke persoon, in dit geval Darice. Laat de standaard regels en normen gaan en ga echt out-of-the-box.
 
 ### Study situation
+Voor horende mensen is het nagenoeg onmogelijk om daadwerkelijk te ervaren hoe het is om doof te zijn.
+
+Op het moment dat ik heb doen besluiten om het fragment zelf ook eens zonder geluid te gaan bekijken, had ik deze natuurlijk al een paar keer gezien. Ik wist daardoor op sommige momenten al wat er zou gebeuren en wat voor gevoel dat met zich meebracht. Darice heeft het fragment nooit kunnen luisteren. Niet helemaal eerlijk en identiek dus, vind ik zelf. Toch heb ik wel het idee dat ik er meer van heb opgestoken dan ik in eerste instantie misschien had gedacht.
+
+Ook de gesprekken met Darice hebben mij kleine details doen inzien. Ik heb het fragment denk ik wel zo’n 5x aandachtig afgespeeld (met geluid), om eens echt mijn focus te leggen op de vele achtergrondgeluiden die ik normaalgesproken eigenlijk altijd wel voor lief neem. Ik ben er allereerst achter gekomen hoe belangrijk die geluiden allemaal zijn in een, in dit geval, enigszins spannend fragment. Echter blijkt ook dat 1 geluid meestal uit meerdere geluiden bestaat en/of heel snel in elkaar overlopen, wat natuurlijk weer heel moeilijk te omschrijven is voor een doof persoon. Een hele uitdaging dus!
 
 ### Ignore conventions
+Normaal gesproken worden de personages in de captions elke keer tussen haakjes aan het begin van de zin genoemd. Ik zag persoonlijk geen toegevoegde waarden aan deze haakjes en heb deze dan ook weg gelaten. Ook Darice bevestigde in het feedback moment nog even, dat het met het gebruik van verschillende kleuren duidelijk en onderscheidbaar genoeg is en deze dus eigenlijk niet nodig zijn. 
+
+Daarnaast heb ik de geluidsomschrijvingen niet op dezelfde plek als de spraak captions geplaatst maar verticaal links in het beeld. Ik negeer hier 2 grote ‘conventions’. Nummer 1 is dat alle tekst normaal gesproken altijd horizontaal te lezen is en nummer 2 is dat de tekst nooit links in het beeld staat.
+
+De grootste ‘convention’ die ik naar mijn idee genegeerd heb is de zelf toegevoegde SVG. Het is natuurlijk helemaal not done om een geluid te gaan visualiseren met behulp van een afbeelding. Daarom vond ik die juist extra leuk om te bedenken en te maken.
+
+Als laatste heb ik bij elk geluidje proberen te spelen met het beeld zelf, door deze te laten trillen, de opacity te veranderen of kleiner en groter te maken.
 
 ### Prioritise identity
-Voor deze specifieke opdracht, was het eigenlijk aan mijn taak om rekening te houden meet 3 verschillende identiteiten. Natuurlijik allereest de identiteit van Darice da Cuba, waar ik het al eerder over gehad heb. Maar ook de identiteit van de film zonder captions en mijn eigen (de makers) identiteit zijn hierbij super belangrijk. 
+Voor deze specifieke opdracht, was het eigenlijk aan mijn taak om rekening te houden meet 3 verschillende identiteiten. Natuurlijik allereest de identiteit van Darice da Cuba, waar ik het al eerder over gehad heb. Maar ook de identiteit van de film zonder captions en mijn eigen (de makers) identiteit zijn hierbij super belangrijk.
 
 #### Darice da Cuba
-Als ik de identiteit van Darice na ons gesprekje zou moeten vaststellen, zit dit er alsvolgt uit:
-Ik zie Darice als een sterk en krachtig persoon, die het eens in de zoveel tijd leuk vind om spanning op te zoeken en daarin uitgedaagd te worden. Wel houd ze van de standaard normen en hoeft het voor haar allemaal niet té gek. 
+Als ik de identiteit van Darice na ons gesprekje zou moeten vaststellen, zit dit er alsvolgt uit: 
+Ik zie Darice als een sterk en krachtig persoon, die het eens in de zoveel tijd leuk vind om spanning op te zoeken en daarin uitgedaagd te worden. Wel houd ze van de standaard normen en hoeft het voor haar allemaal niet té gek.
 
 #### De film
+Na het kijken van de film zijn mijn een aantal dingen specifiek over het fragment dat wij nu aanpassen opgevallen. 
+
+Wanneer personages praten, zijn zij vak niet goed in beeld om te kunnen zien wie het zegt. Dit moet Darice dus allemaal meekrijgen via de captions. Dit hindert haar naar mijn mening in het optimaal kunnen beleven van de film. Wat voor emotie dat personage bijvoorbeeld in zijn stem heeft is verder nergens anders te zien. Terwijl Darice dat anders nog wel een beetje van iemands gezicht kan aflezen. 
+
+Daarnaast is het fragment is inhoudelijk net heel sterk en wordt als het waren bij elkaar gehouden door de omgevingsgeluiden. Het fragment bouwt door middel van de verschillende omgevingsgeluiden bepaalde spanning op, die na scene 1 ook abrupt wegvalt.
+
+De personages stralen voorderest niet veel emotie uit maar zijn daardoor wel erg stoer, sterk en macho. De sfeer die de film met behulp van de vele omgevingsgeluiden wilt overbrengen, is naar mijn mening een beetje hetzelfde als de personages, namelijk ruig, donker en stoer.
 
 
 #### Mijn identiteit
 
-Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zijn en blijven en de kijker niet afleiden van het overkoepelende doel. Daarnaast ben ik iemand die altijd wel graag binnen de lijntjes werkt. Echter heb ik  daar bij deze opdracht wel wat meer afstand van proberen te doen. Dingen visueel aantrekkelijk maken, door zelf in je eigen creativiteit te graven, is iets wat ik erg leuk vind om te doen.
+Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zijn en blijven en de kijker niet afleiden van het overkoepelende doel. Daarnaast ben ik iemand die altijd wel graag binnen de lijntjes werkt. Echter heb ik daar bij deze opdracht wel wat meer afstand van proberen te doen. Dingen visueel aantrekkelijk maken, door zelf in je eigen creativiteit te graven, is iets wat ik erg leuk vind om te doen.
 
 #### Conclusie
 
@@ -138,12 +154,15 @@ Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zij
 
 ### Add nonsence
 
-Wanneer ik die lange harde piep hoorde aan het eind van de eerste scene kon ik eigenlijk alleen maar blijven denken aan een geluidsgolf. 
+Als ik nu terugkijk, kan ik mij bijna niet meer voorstellen hoe deze scene eruitzag zonder alle visuele aspecten. Aan het begin van deze opdracht, voelde alles heel onnatuurlijk en alles eigenlijk wel een beetje ‘nonsence’. Echter nu je het gemaakt heb, zie je hoeveel toevoeging het geeft aan een scene, als dove kun je de film nu echt veel beter beleven. Een scherm laten trillen of een afbeeldingskleur veranderen vond ik toen al best wel grote veranderingen. Vooral omdat dit dus ook helemaal nieuw voor mij was. 
 
-Eerst had ik nog besloten dit idee niet voort te zetten, eigenlijk doordat ik niet het vertrouwen in mezelf had dat ik dat kon. Zoals eerder benoemd had ik voordat dit blok begon nog helemaal geen ervaring met HTML en CSS, vandaar kan het soms ook erg lastig zijn om tte weten wat er allemaal mogelijk is. Dus toen ik met het idee van de geluidsgolf kwam, wist ik niet of ik dit daadwerkelijk met code kon realiseren. 
+Toen ik na een tijdje lekker bezig was en ik steeds aan het einde van de eerste scene die harde lange piep toon hoorde, ben ik pas echt meer in ‘nonsense’ ideeën gaan denken. Bij die specifieke piep bleef ik echter maar denken aan een geluidsgolf. Zou dat dan zo’n ‘nonsense’ idee zijn, om eens te gaan proberen?
 
-Ik ben gaan zoeken naar andere ideeën om deze laatste piep toon te visualiseren. Echter ben ik naar mijn mening nooit op iets beters uitgekomen, waardoor ik toen toch ben gaan spelen met de geluidsgolf.
+Eerst had ik nog besloten dit idee niet voort te zetten, eigenlijk doordat ik niet het vertrouwen in mezelf had dat ik dat kon. Zoals eerder benoemd had ik voordat dit blok begon nog helemaal geen ervaring met HTML en CSS, vandaar kan het soms ook erg lastig zijn om tte weten wat er allemaal mogelijk is. Dus toen ik met het idee van de geluidsgolf kwam, wist ik niet of ik dit daadwerkelijk met code kon realiseren.
 
-Uiteindelijk ben ik duds meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideene maar gewoon eens te probeen. Ik ben ook erg blij hoe die geluidsgolf nu uiteindelijk in de scene verwerkt zit. 
+Ik ben gaan zoeken naar andere ideeën om deze laatste piep toon te visualiseren. Echter ben ik naar mijn mening nooit op iets beters uitgekomen, waardoor ik toen toch ben gaan spelen met de geluidsgolf. Dat ik die geluidsgolf er uiteindelijk zo in heb gekregen hoe ik dat in eerste instantie in mijn hoofd had bedacht, vind ik heel leuk om te zien.
+
+Uiteindelijk ben ik dus meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideeën maar gewoon eens te proberen. Niet alleen maar het vergroten en het laten trillen van het scherm, maar echt iets van buitenaf toevoegen. Ik ben erg blij hoe die geluidsgolf nu uiteindelijk in de scene verwerkt zit.
+
 
 
