@@ -1,5 +1,5 @@
 # Maxime Alvarez Ruiz VID1
-[Eindversie](https://maximear.github.io/Web-typografie/Versie3/index.html)
+[Eindversie](https://maximear.github.io/Web-typografie/Versie4/index.html)
 
 Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface Design. Een blok waar sommige mensen misschien wel zin in hadden, andere mensen juist niet en dan heb je mij. Ik had werkelijk waar geen idee wat ik moest verwachten. HTML en CSS, woorden die ik kende maar ik mij geen beeld bij voor kon stellen. Wat gaat dit worden, gaan de thuislessen genoeg voor mij zijn?
 
@@ -85,7 +85,7 @@ Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Dari
 Het enige geluid dat nog niet ondersteunt werd door een beweging of verandering van het beeld zelf, was de laatste hoge pieptoon. Om deze wat minder ‘buiten de boot’ te laten vallen, heb ik er daar nog voor gezorgd dat het scherm steeds kleiner wordt. Wanneer het geluid abrupt stopt, springt het scherm weer naar zijn normale formaat.
 Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug tte veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
 
-[Versie 4]()
+[Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html)
 
 # De keuze voor het font "Brenner"
 Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. Hier kan je je verdiepen in dit font. Als je kiest voor dit font dan heb je de beschikking over een sans serif, een condensed, een serif, een monotype, een slab, een display en een script versie. En veel van deze versies hebben varianten van light tot bold, en allemaal zowel bold als italic.
