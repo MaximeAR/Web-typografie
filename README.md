@@ -68,9 +68,7 @@ Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgen
 
 [Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html) - video is bewerkt tot 1.26 min.
 
-Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scene. 
-
-Ik heb allereerst de geluidsomschrijvingen allemaal in het midden van het beeld beeld gezet. Daarna ben ik begonnen met het constant maken van mijn aanpassingen. Zo heb ik er nu voor gekozen om bij elk geluid een geluidsomschrijving te plaatsen in combinatie met een visueel element. Denk dan aan het trillen van het scherm, de opacity en het groter of kleiner worden van het scherm.
+Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scene. Ik heb allereerst de geluidsomschrijvingen allemaal in het midden van het beeld beeld gezet. Daarna ben ik begonnen met het constant maken van mijn aanpassingen. Zo heb ik er nu voor gekozen om bij elk geluid een geluidsomschrijving te plaatsen in combinatie met een visueel element. Denk dan aan het trillen van het scherm, de opacity en het groter of kleiner worden van het scherm.
 
 De laatste lange hoge pieptoon van scene 1 is hierbij wel een uitzondering. Ook deze pieptoon wordt natuurlijk weer ondersteund met een geluidsomschrijving en een visueel element maar dit keer ook met een bewegende SVG. Dit omdat ik dit geluid erg belangrijk vind voor de scene, wanneer dit geluid niet goed over komt blijf er eigenlijk helemaal niks qua sfeer of emotie over.
 
@@ -82,8 +80,12 @@ De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad
 [Versie 3](https://maximear.github.io/Web-typografie/Versie3/index.html) - video is bewerkt tot 1.26 min.
 
 Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis, ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
+
 Het enige geluid dat nog niet ondersteunt werd door een beweging of verandering van het beeld zelf, was de laatste hoge pieptoon. Om deze wat minder ‘buiten de boot’ te laten vallen, heb ik er daar nog voor gezorgd dat het scherm steeds kleiner wordt. Wanneer het geluid abrupt stopt, springt het scherm weer naar zijn normale formaat.
+
 Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug tte veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
+
+# Versie 4:
 
 [Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html) - video is bewerkt tot 1.26 min.
 
