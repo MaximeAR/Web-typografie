@@ -118,7 +118,7 @@ Uiteindelijk ben ik duds meer out-of-the-box gaan denken door mijn eerst onmogel
 
 ### Versie 1: wat heb ik gemaakt?
 
-[Versie 1] (https://maximear.github.io/Web-typografie/Web-typografie%20versie%201/index.html)
+[Versie 1]()
 
 ### Versie 2: wat heb ik aangepast?
 
