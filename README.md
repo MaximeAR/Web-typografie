@@ -1,5 +1,5 @@
 # Maxime Alvarez Ruiz VID1
-[Eindversie](https://maximear.github.io/Web-typografie/Versie4/index.html)
+[Eindversie](https://maximear.github.io/Web-typografie/Versie4/index.html) - video is bewerkt tot 1.26 min.
 
 Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface Design. Een blok waar sommige mensen misschien wel zin in hadden, andere mensen juist niet en dan heb je mij. Ik had werkelijk waar geen idee wat ik moest verwachten. HTML en CSS, woorden die ik kende maar ik mij geen beeld bij voor kon stellen. Wat gaat dit worden, gaan de thuislessen genoeg voor mij zijn?
 
