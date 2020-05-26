@@ -48,7 +48,7 @@ Alle andere geluiden die ik daarna nog tegenkwam, heb ik aan de linker kant van 
 
 # Feedback:
 
-Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor, op 12 mei, stond er ook een feedback sessie gepland, helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze eerste meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn eerste versie. Hun ’fouten’ hoefde ik zelf dan niet meer te maken.
+Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor, op 12 mei, stond er ook een feedback sessie gepland. Helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze eerste meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn eerste versie. Hun ’fouten’ hoefde ik zelf dan niet meer te maken.
 
 ### Darice da Cuba:
 
