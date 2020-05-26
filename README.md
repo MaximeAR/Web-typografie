@@ -30,7 +30,6 @@ Deze uiteindelijk visueel aantrekkelijke scène maken wij speciaal gericht voor 
 9.	Darice associeert donkere kleuren met spanning.
 
 # Versie 1: wat heb ik gemaakt?
-
 [Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html) - video is bewerkt tot 0.43 min.
 
 Ik ben begonnen met het visueel aantrekkelijker maken van de al bestaande saaie captions. Allereest heb ik het advies van Darice opgevolgd en heb ik de namen van de personages voor elke zin gezet, zodat je als kijker ten alle tijden weet wie wat zegt. 
@@ -47,19 +46,17 @@ Daarna heb ik de tekst even gelaten voor wat het is en ben ik begonnen aan de ge
 Alle andere geluiden die ik daarna nog tegenkwam, heb ik aan de linker kant van het beeld aangeduid met een beschrijving van het geluid. Echter is de langdurige pieptoon wanner Constant K zich in een klein kamertje bevindt een uitzondering. Dit heb ik namelijk aangeduid met een bewegende geluidsgolf door het beeld heen.
 
 # Feedback:
-
 Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor, op 12 mei, stond er ook een feedback sessie gepland. Helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze eerste meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn eerste versie. Hun ’fouten’ hoefde ik zelf dan niet meer te maken.
 
 ### Darice da Cuba:
+Darice vond in de tweede feedback sessie mijn video er erg goed uit zien. Zelf had zij er op dat moment niet eens echt wat op aan te merken. Ze gaf aan het fijn te vinden dat ik naar haar geluisterd had wat betreft de manier van kleur gebruik.
 
-
+Mijn specifieke vraag voor haar op dat moment was of zij liever had dat de geluidsaanduidingen in het beeld kwamen te staan of juist daarnaast. Hierbij had zij geen specifiek voorkeur, dus dit mocht ik aan de hand van mijn eigen voorkeuren gaan beslissen. Overigens vond ze de aanduidingen zelf, losstaand van de specifieke plek, heel duidelijk. Dit was voor mij ook nog de vraag aangezien dit verticaal in plaats van horizontaal te lezen is, wat voor sommige mensen als heel erg onnatuurlijk wordt gezien. Het enige wat ze daar nog op aan te merken had, is dat ze het graag gecentreerd ziet staan.
 
 ### Vasilis van Gemert:
-
 Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgende te horen. Hij vond de visuele dingen die ik had toegevoegd er erg leuk uit zien, echter had hij een beetje het idee dat ik maar liefst 3 verschillende stijlen aan het hanteren was. Zo maakte nu nog gebruik van een bewegend scherm bij het eerste geluid, geluidsbeschrijvingen bij de volgende 4 geluiden en daarna een bewegende SVG. Wanneer je iets gaat vormgeven is het natuurlijk aan het begin goed om meerdere stijlen uit te testen, om daarna vervolgens er eentje te kiezen en daarmee verder te gaan. Dit was dan ook zijn tip voor mij, om als volgende stap echt een stijl te gaan kiezen.
 
 # Versie 2: wat heb ik aangepast?
-
 [Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html) - video is bewerkt tot 1.26 min.
 
 Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scène. Ik heb allereerst de geluidsomschrijvingen allemaal in het midden van het beeld gezet. Daarna ben ik begonnen met het constant maken van mijn aanpassingen. Zo heb ik er nu voor gekozen om bij elk geluid een geluidsomschrijving te plaatsen in combinatie met een visueel element. Denk dan aan het trillen van het scherm, de opacity en het groter of kleiner worden van het scherm.
@@ -69,7 +66,6 @@ De laatste lange hoge pieptoon van scène 1 is hierbij wel een uitzondering. Ook
 De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad, aangezien ik de rode kleur toch niet helemaal bij de manier van praten vond passen. Ik denk dat de omschrijving van het personage en de smiley al genoeg boosheid met zich mee brengen. 
 
 # Versie 3: Wat ik heb ik nog aangepast
-
 [Versie 3](https://maximear.github.io/Web-typografie/Versie3/index.html) - video is bewerkt tot 1.26 min.
 
 Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis, ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
@@ -79,7 +75,6 @@ Het enige geluid dat nog niet ondersteunt werd door een beweging of verandering 
 Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug te veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
 
 # Versie 4:
-
 [Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html) - video is bewerkt tot 1.26 min.
 
 # De keuze voor het font "Brenner"
@@ -133,7 +128,6 @@ Daarnaast is het fragment is inhoudelijk net heel sterk en wordt als het waren b
 De personages stralen voorderest niet veel emotie uit maar zijn daardoor wel erg stoer, sterk en macho. De sfeer die de film met behulp van de vele omgevingsgeluiden wil overbrengen, is naar mijn mening een beetje hetzelfde als de personages, namelijk ruig, donker en stoer.
 
 #### Mijn identiteit
-
 Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zijn en blijven en de kijker niet afleiden van het overkoepelende doel. Daarnaast ben ik iemand die altijd wel graag binnen de lijntjes werkt. Echter heb ik daar bij deze opdracht wel wat meer afstand van proberen te doen. Dingen visueel aantrekkelijk maken, door zelf in je eigen creativiteit te graven, is iets wat ik erg leuk vind om te doen.
 
 #### Conclusie
@@ -142,7 +136,6 @@ Ik houd zelf erg van consistentie en niet al te gek. Dingen moeten duidelijk zij
 
 
 ### Add nonsence
-
 Als ik nu terugkijk, kan ik mij bijna niet meer voorstellen hoe deze scène eruitzag zonder alle visuele aspecten. Aan het begin van deze opdracht, voelde alles heel onnatuurlijk en alles eigenlijk wel een beetje ‘nonsence’. Echter nu je het gemaakt heb, zie je hoeveel toevoeging het geeft aan een scène, als dove kun je de film nu echt veel beter beleven. Een scherm laten trillen of een afbeeldingskleur veranderen vond ik toen al best wel grote veranderingen. Vooral omdat dit dus ook helemaal nieuw voor mij was. 
 
 Toen ik na een tijdje lekker bezig was en ik steeds aan het einde van de eerste scène die harde lange pieptoon hoorde, ben ik pas echt meer in ‘nonsense’ ideeën gaan denken. Bij die specifieke piep bleef ik echter maar denken aan een geluidsgolf. Zou dat dan zo’n ‘nonsense’ idee zijn, om eens te gaan proberen?
@@ -154,7 +147,6 @@ Ik ben gaan zoeken naar andere ideeën om deze laatste piep toon te visualiseren
 Uiteindelijk ben ik dus meer out-of-the-box gaan denken door mijn eerst onmogelijk lijkende ideeën maar gewoon eens te proberen. Niet alleen maar het vergroten en het laten trillen van het scherm, maar echt iets van buitenaf toevoegen. Ik ben erg blij hoe die geluidsgolf nu uiteindelijk in de scène verwerkt zit.
 
 # Nog niet uitgewerkte ideeën:
-
 Ik had graag nog gezien dat de geluidsomschrijving op twee plekken in het fragment meebewegen met het scherm. Het scherm veranderd bij twee geluiden namelijk van grote, terwijl de omschrijving op dat moment blijft staan. Ik weet dat je dit kunt doen keyframes toe te voegen. Echter voel ik mij na deze 3 weken nog steeds niet helemaal huis in de code en heb ik daar gewoon de tijd niet meer voor. 
 
 Daarnaast spreekt het natuurlijk voor zich dat ik ook graag verder had willen gaan met scène 2. Ik heb ongeveer in de tweede week echter een afspraak met mezelf gemaakt, dat ik sowieso scène 1 helemaal af zou maken. Op het moment dat ik dat punt had bereikt, had ik naar mijn idee geen genoeg tijd meer om ook aan scène 2 of een deel van scène 2 te beginnen. Ik heb de tijd die ik toen nog had gebruikt om nog een kritisch naar mijn werk in scène 1 te kijken en hierbij te kiezen voor kwaliteit boven kwantiteit. 
