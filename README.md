@@ -1,81 +1,118 @@
-# Responsive Typography, 2019/2020
+# Maxime Alvarez Ruiz VID1
+[Eindversie](https://maximear.github.io/Web-animatie/Versie5/index.html)
 
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
+Op 6 mei 2020 begon dan eindelijk het derde blok van de minor Visual Interface Design. Een blok waar sommige mensen misschien wel zin in hadden, andere mensen juist niet en dan heb je mij. Ik had werkelijk waar geen idee wat ik moest verwachten. HTML en CSS, woorden die ik kende maar ik mij geen beeld bij voor kon stellen. Wat gaat dit worden, gaan de thuislessen genoeg voor mij zijn?
 
-Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
+# De opdracht:
+Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Bij dit vak is het aan ons, om een scene uit de film de Blade Runner 2049 zo visueel mogelijk weer te geven met behulp van de captions en je eigen creativiteit. Dit zodat ook dove mensen deze film echt kunnen gaan beleven.
 
-Dat kan visueel sterker. 
+Toen ik de scene zelf even zonder geluid ging kijken merkte ik pas hoe saai dat is zonder de omgevingsgeluiden
 
-En dat gaan jullie doen.
+Iets wordt spannend door het geluid dat er aan een scene wordt toegevoegd, ook al gebeurt er bijvoorbeeld niet eens wat in het beeld. 
 
-## Leerdoelen
+# Voorkeuren Darice da Cuba:
+Deze uiteindelijk visueel aantrekkelijke scene maken wij speciaal gericht voor één persoon, namelijk Darice da Cuba. Het is van groot belang om achter haar specifieke voorkeuren en haar denkwijze te komen, om daarna de voor haar perfect vormgegeven captions te kunnen maken. Ik ben daarom op 6 mei in gesprek gegaan met Darice en heb hier de volgende informatie uit kunnen halen:
 
-- Je kan de kennis over vormgeving die je hebt opgedaan tijdens de minor technisch toepassen met behulp van CSS
-- Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele (typografische) beelden
-- Je kan je typografische keuzes onderbouwen.
-- Je hebt de exclusive design principles gebruikt.
+De captions moeten natuurlijk genoeg informatie bevatten om Darice de film zo optimaal mogelijk te laten beleven. Wel moeten we ervoor oppassen niet te veel details in de captions te zetten. Door te veel details te benoemen kan het voorkomen dat het desbetreffende scherm al voordat alles gelezen is switched.
 
-## Oplevering
+Wanneer de sprekende personen duidelijk in beeld te zien zijn, is het voor Darice niet per se nodig om aan te geven wie er spreekt. Echter waarneer er meerdere mensen zijn, ziet ze liever een naam met dubbele punt voor de zin.
 
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
+Als horend persoon heb ik vaak niet door dat sommige geluiden buiten beeld worden gehouden. Een doof persoon kan dit geluid compleet missen als dit niet in de captions wordt aangegeven. Het is volgens Darice dus erg belangrijk om juist die geluiden duidelijk aan te geven, aangezien er niets anders te zien is waaraan het geluid te koppelen is. 
 
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
+Aangezien de opdracht geeft Darice aan dat het waarschijnlijk het handigste is als wij gebruik gaan maken van kleuren, dan heb je minder tekst nodig
 
-## Typografische restricties
+Als je een geluid omschrijft hoeft het niet een hele lange uitgebreide omschrijving te zijn 
 
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
+Ze vindt het ook leuk als wij iets anders dan de standaard tekst verzinnen om een bepaald geluid aan te geven.
 
-### Optie 1: Systeemfont
+Lichaamstaal zegt niet alles. Wanneer een personage een emotie uit in de film die niet heel goed zichtbaar is maar voor het verhaal wel heel belangrijk is, kan het ook helpen deze emotie te benoemen in de captions. 
 
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
+Spannende films bewaard Darice eigenlijk altijd voor de avond.
 
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
+Darice associeert donkere kleuren met spanning. 
 
-### Optie 2: Brenner
+1 op 1 liplezen is voor Darice wel makkelijk te doen, 
 
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
+Het kan naast het gebruiken van verschillende kleuren om de personages van elkaar te onderscheiden, ook handig zijn om verschillende opmaaktypes te gebruiken.
+Maar let wel op dat je hierin consistent blijft.
+Probeer niet te veel te doen met de tekst die de personages zeggen, het moet wel makkelijk leesbaar blijven. De omgevingsgeluiden altijd cursief kan bijvoorbeeld wel toegevoegde waarde hebben.
 
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
+Darice heeft vaak het probleem bij het kijken van films of series dat ze een belangrijk stuk van de film mist omdat ze de captions nog aan het lezen was. Dit gebeurt vooral bij gezichtsuitdrukkingen, deze komen over het algemeen zo kort in beeld, dat ze dit vaak over het hoofd ziet.
 
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
+Een doof persoon moet twee dingen tegelijkertijd in de gaten houden.
+Grotere gebeurtenissen op het beeld zelf kun je tijdens het lezen van de captions altijd wel vanuit je ooghoek zien. 
 
-## Het fragment
+# Feedback:
 
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
+Ik heb in totaal 1x echte feedback gekregen op mijn eerder gemaakte werk, dat was op 19 mei. Die week ervoor stond er ook een feedback sessie geplant, helaas door privé redenen had ik toen nog niets om te testen. Ik ben wel aanwezig geweest bij deze meeting, met de intentie om de tips en de tops van mijn mede studenten op te vangen en die gelijk al mee te nemen in mijn product. 
 
-### De captions
+## Darice da Cuba:
 
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
+Ik heb tijdens de eerste feedback sessie meegeluisterd naar de punten die mijn mede studenten over hun werk te horen hebben gekregen. Dit was voor mij ook heel helpvol, aangezien ik die ‘fouten’ zelf niet meer hoefde te maken.
 
-Met JavaScript worden er een paar dingen extra gedaan: 
+Ook al had ik dus zelf niets te testen, heb ik er wel wat van geleerd. 
 
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
+-----------------------
 
-### Tijdens het afspelen
+Darice vond in de tweede feedback sessie mijn video er erg goed uit zien. Zelf had zij er op dat moment niet eens wat op aan te merken.
 
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
+Ze vond het fijn dat ik naar haar geluisterd had wat betreft de manier van kleurgebruik. 
 
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
+Mijn specifieke vraag voor haar op dat moment was of zij liever had dat de geluidsaanduidingen in het beeld kwamen te staan of juist daarnaast. Hierbij had zij geen specifiek voorkeur, dus dit mocht ik aan de hand van mijn eigen voorkeuren gaan beslissen. 
+Overigens vond ze de aanduidingen zelf, losstaand van de specifieke plek, heel duidelijk. Dit was voor mij ook nog de vraag aangezien dit verticaal in plaats van horizontaal te lezen is, wat voor sommige mensen als heel erg onnatuurlijk wordt gezien.
 
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
+Ze wou het alleen wel graag gecentreerd zien.
+## Vasilis van Gemert:
 
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
 
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
+# Identiteiten
 
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
 
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
+# De keuze voor het font "Brenner"
+Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. Hier kan je je verdiepen in dit font. Als je kiest voor dit font dan heb je de beschikking over een sans serif, een condensed, een serif, een monotype, een slab, een display en een script versie. En veel van deze versies hebben varianten van light tot bold, en allemaal zowel bold als italic.
+Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn.
 
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
 
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
+# De keuzes voor de personage teksten
 
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
+Waar ze staan
+Welke kleuren ze hebben
+Welk font ze hebben
 
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+(de eerste zinnen heb ik uit elkaar getrokken en aparte classes van gemaakt)
+
+
+
+Ik heb ervoor gekozen om de gesproken teksten uit te lijnen met de linkerkant van de video.
+Dit zodat je als kijker altijd weet vanaf waar de zin gaat beginnen. En je dit bijvoorbeeld niet nog eerst moet ‘zoeken’. Elke zin heeft een verschillende lengte en wanneer je dit in het midden uitlijnt veranderd dus ook constant de plek waar de zin begint. Dit zoeken kan tijd wegnemen van het kijken naar het beeld zelf. 
+
+# De keuzes voor de sound teksten
+
+
+
+# De keuzes voor de visuele elementen
+
+
+
+# Principes verwerkt in mijn eindversie
+
+Study situation
+Ignore conventions
+Prioritise identity
+Add nonsence
+
+
+
+## Versie 1: wat heb ik gemaakt?
+
+
+## Versie 2: wat heb ik aangepast?
+
+
+
+## Versie 3: Wat ik heb ik nog aangepast
+
+Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. 
+Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
+
+
