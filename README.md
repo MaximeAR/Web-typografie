@@ -68,6 +68,8 @@ Ze wou het alleen wel graag gecentreerd zien.
 
 [Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html)
 
+Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scene. 
+
 # Versie 3: Wat ik heb ik nog aangepast
 
 Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. 
