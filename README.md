@@ -30,7 +30,7 @@ Deze uiteindelijk visueel aantrekkelijke scene maken wij speciaal gericht voor �
 
 # Versie 1: wat heb ik gemaakt?
 
-[Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html)
+[Versie 1](https://maximear.github.io/Web-typografie/Versie1/index.html) - video is bewerkt tot 0.43 min.
 
 Ik ben begonnen met het visueel aantrekkelijker maken van de al bestaande saaie captions. Allereest heb ik het advies van Darice opgevolgd en heb ik de namen van de personages voor elke zin gezet, zodat je als kijker ten alle tijden weet wie wat zegt. 
 
@@ -66,7 +66,7 @@ Van onze docent kreeg ik na het zien van mijn eerste versie op 19 mei het volgen
 
 # Versie 2: wat heb ik aangepast?
 
-[Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html)
+[Versie 2](https://maximear.github.io/Web-typografie/Versie2/index.html) - video is bewerkt tot 1.26 min.
 
 Aan de hand van bovenstaande feedback van zowel Darice als Vasilis, ben ik verder gegaan met het nog beter visualiseren van de scene. 
 
@@ -79,13 +79,13 @@ De zin ‘Fuck-off, skin job’ heeft hierna ook nog een kleine aanpassing gehad
 
 # Versie 3: Wat ik heb ik nog aangepast
 
-[Versie 3](https://maximear.github.io/Web-typografie/Versie3/index.html)
+[Versie 3](https://maximear.github.io/Web-typografie/Versie3/index.html) - video is bewerkt tot 1.26 min.
 
 Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Darice en Vasilis, ben ik zelf nog een kritisch naar mijn eigen werk gaan kijken. Ook ben ik het vragen kwartiertje met Darice en de feedback sessies nog even terug gaan luisteren en heb daaruit toch nog wat aanpassingen weten te vinden.
 Het enige geluid dat nog niet ondersteunt werd door een beweging of verandering van het beeld zelf, was de laatste hoge pieptoon. Om deze wat minder ‘buiten de boot’ te laten vallen, heb ik er daar nog voor gezorgd dat het scherm steeds kleiner wordt. Wanneer het geluid abrupt stopt, springt het scherm weer naar zijn normale formaat.
 Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug tte veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
 
-[Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html)
+[Versie 4](https://maximear.github.io/Web-typografie/Versie4/index.html) - video is bewerkt tot 1.26 min.
 
 # De keuze voor het font "Brenner"
 Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. Hier kan je je verdiepen in dit font. Als je kiest voor dit font dan heb je de beschikking over een sans serif, een condensed, een serif, een monotype, een slab, een display en een script versie. En veel van deze versies hebben varianten van light tot bold, en allemaal zowel bold als italic.
