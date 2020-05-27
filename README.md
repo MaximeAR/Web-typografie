@@ -86,6 +86,8 @@ Omdat ik uiteindelijk door prive reden maar 1 feedback moment heb gehad met Dari
 
 Het enige geluid dat nog niet ondersteunt werd door een beweging of verandering van het beeld zelf, was de laatste hoge pieptoon. Om deze wat minder ‘buiten de boot’ te laten vallen, heb ik er daar nog voor gezorgd dat het scherm steeds kleiner wordt. Wanneer het geluid abrupt stopt, springt het scherm weer naar zijn normale formaat.
 
+Ook zag ik nog tot mijn grote verbazing dat ik bij het trillen van het scherm nog geen geluidsomschrijving had toegevoegd. Dit heb ik dus ook nog snel gedaan.
+
 Ik heb nog even kort overwogen om de verschillende geluidsomschrijven ook elk een andere kleur te geven. Dit om het zo voor Darice nog makkelijk te herkennen is en zij door de kleuren misschien niet per se de hele omschrijving hoeft te lezen. Dit idee heb ik zelfs nog daadwerkelijk helemaal uitgewerkt in versie 3. Toch heb ik na een halve dag doen besluiten dit terug te veranderen, omdat ik eens na ging denken over hoe dat er in de gehele film uit zal zien. Er zullen hoogstwaarschijnlijk zo veel verschillende geluiden in voor komen dat de kleuren op een gegeven moment op zijn en dan werkt het niet meer. Versie 4 is nu dus de eindversie.
 
 # Versie 4:
