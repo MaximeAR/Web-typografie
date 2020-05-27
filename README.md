@@ -137,7 +137,7 @@ Ook de gesprekken met Darice hebben mij kleine details doen inzien. Ik heb het f
 ### Ignore conventions:
 Normaal gesproken worden de personages in de captions elke keer tussen haakjes aan het begin van de zin genoemd. Ik zag persoonlijk geen toegevoegde waarden aan deze haakjes en heb deze dan ook weg gelaten. Ook Darice bevestigde in het feedback moment nog even, dat het met het gebruik van verschillende kleuren duidelijk en onderscheidbaar genoeg is en deze dus eigenlijk niet nodig zijn. 
 
-Daarnaast heb ik de geluidsomschrijvingen niet op dezelfde plek als de spraak captions geplaatst maar verticaal links in het beeld. Ik negeer hier 2 grote ‘conventions’. Nummer 1 is dat alle tekst normaal gesproken altijd horizontaal te lezen is en nummer 2 is dat de tekst nooit in het beeld staat.
+Daarnaast heb ik de geluidsomschrijvingen niet op dezelfde plek als de spraak captions geplaatst maar verticaal links in het beeld. Ik negeer hier 2 grote ‘conventions’. Nummer 1 is dat alle tekst normaal gesproken altijd horizontaal te lezen is en nummer 2 is dat de tekst nooit op die plek in het beeld staat.
 
 De grootste ‘convention’ die ik naar mijn idee genegeerd heb is de zelf toegevoegde SVG. Het is natuurlijk helemaal not done om een geluid te gaan visualiseren met behulp van een afbeelding. Daarom vond ik die juist extra leuk om te bedenken en te maken.
 
