@@ -139,7 +139,7 @@ Normaal gesproken worden de personages in de captions elke keer tussen haakjes a
 
 Daarnaast heb ik de geluidsomschrijvingen niet op dezelfde plek als de spraak captions geplaatst maar verticaal links in het beeld. Ik negeer hier 2 grote ‘conventions’. Nummer 1 is dat alle tekst normaal gesproken altijd horizontaal te lezen is en nummer 2 is dat de tekst nooit op die plek in het beeld staat.
 
-De grootste ‘convention’ die ik naar mijn idee genegeerd heb is de zelf toegevoegde SVG. Het is natuurlijk helemaal not done om een geluid te gaan visualiseren met behulp van een afbeelding. Daarom vond ik die juist extra leuk om te bedenken en te maken.
+De grootste ‘convention’ die ik naar mijn idee genegeerd heb is, de zelf toegevoegde SVG. Het is natuurlijk helemaal not done om een geluid te gaan visualiseren met behulp van een afbeelding. Daarom vond ik die juist extra leuk om te bedenken en te maken.
 
 Als laatste heb ik bij elk geluidje proberen te spelen met het beeld zelf, door deze te laten trillen, de opacity te veranderen of kleiner en groter te maken.
 
